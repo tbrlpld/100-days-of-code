@@ -8,3 +8,8 @@ from program import app  # This is in the __init__.py
 @app.route("/index")
 def index():
     return "Hello Pythonistas"
+
+
+@app.route("/hello/<string:name>")
+def hello(name):
+    return f"Hello {name}"
