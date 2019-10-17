@@ -19,12 +19,17 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
  -->
 
-### Day 1: June 27, Monday
+## Day 1: October 16, 2019, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
+Gone through first bit of Flask introduction and set up the basic project structure in #100DayOfWebInPython.
+Also, enabled Markdown formatting for posts in the Flaskr Blog app (as suggested in the "Keep Developing" section of the Flask tutorial).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+Have used Flask before, but the `.flaskenv` file using `python-dotenv` package to set the environment variable automatically is a nice addition to simplify the setup (and distribution I guess).
+`markupsafe.escape()` can be used to sanitize user input on the sever side. 
+
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
