@@ -13,19 +13,34 @@ Have used Flask before, but the `.flaskenv` file using `python-dotenv` package t
 
 
 **Link(s) to work**
-1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
 
 
 ## Day 2: October 17, 2019, Thursday
 
 **Today's Progress**: 
-Started the day off with the rest of the Flask intro lessons on #100DayOfWebInPython. 
+Started the day off with the rest of the Flask intro lessons on #100DayOfWeb in Python. 
 Added templates, base template, and some MUICSS for styling and page consistency.
 
 **Thoughts** 
 Using `.html.j2` as the file extension for the Jinja2 templates makes SublimeText show them with correct syntax highlighting. 
 
 **Link(s) to work**
+1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+
+
+## Day 3: October 17, 2019, Friday
+
+**Today's Progress**: 
+Started new Flask site from scratch. 
+Site pulls Markdown files from my #100DaysOfCode journal repo on GitHub and renders them into a base template.
+Styling of the page with MUICSS still open.
+
+**Thoughts** 
+In a Jinja base template, you can access a child template’s blocks not only by `{% block content %}{% endblock %}` but also via the special `self` object. 
+To access the child's block use `{{ self.content() }}` in the parent/base template. 
+
+
+**Link(s) to work**
 1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
-2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
