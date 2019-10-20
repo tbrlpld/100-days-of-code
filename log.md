@@ -52,7 +52,7 @@ To access the child's block use `{{ self.content() }}` in the parent/base templa
 
 ### Today's Progress
 Applied some style to my Flask journal app with MUICSS. 
-Also, I added the Flask journal app to my personal website :).
+Also, I added the Flask journal app to [my personal website](https://lpld.io) :).
 
 ### Thoughts
 The documentation of MUICSS and the features all seem a little less then the Bootstrap competition.
