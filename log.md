@@ -13,9 +13,10 @@ Have used Flask before, but the `.flaskenv` file using `python-dotenv` package t
 
 
 **Link(s) to work**
+
 1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
-
+3. [Day 1 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/264b84806a7cf0b0268107a74ff8c9fa64ac6513)
 
 ## Day 2: October 17, 2019, Thursday
 
@@ -27,10 +28,12 @@ Added templates, base template, and some MUICSS for styling and page consistency
 Using `.html.j2` as the file extension for the Jinja2 templates makes SublimeText show them with correct syntax highlighting. 
 
 **Link(s) to work**
+
 1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+2. [Day 2 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6be58f42cae9dad32b9fb1f41709efed0c6f625f)
 
 
-## Day 3: October 17, 2019, Friday
+## Day 3: October 18, 2019, Friday
 
 **Today's Progress**: 
 Started new Flask site from scratch. 
@@ -43,4 +46,21 @@ To access the child's block use `{{ self.content() }}` in the parent/base templa
 
 
 **Link(s) to work**
+
 1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+2. [Day 3 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6733101af90e50f34d8aa8e5cdff736b92af44c0)
+
+
+## Day 4: October 19, 2019, Saturday
+
+**Today's Progress**: 
+...
+
+**Thoughts** 
+...
+
+
+**Link(s) to work**
+
+1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+2. [Day 4 Commit]()
