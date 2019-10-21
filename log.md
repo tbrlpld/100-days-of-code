@@ -5,7 +5,7 @@
 
 ### Today's Progress
 Gone through first bit of Flask introduction and set up the basic project structure in #100DayOfWebInPython.
-Also, enabled Markdown formatting for posts in the Flaskr Blog app (as suggested in the "Keep Developing" section of the Flask tutorial).
+Also, enabled Markdown formatting for posts in the Flaskr blog app (as suggested in the "Keep Developing" section of the Flask tutorial).
 
 ### Thoughts
 Have used Flask before, but the `.flaskenv` file using `python-dotenv` package to set the environment variable automatically is a nice addition to simplify the setup (and distribution I guess).
@@ -36,7 +36,7 @@ Using `.html.j2` as the file extension for the Jinja2 templates makes SublimeTex
 ### Today's Progress
 Started new Flask site from scratch. 
 Site pulls Markdown files from my #100DaysOfCode journal repo on GitHub and renders them into a base template.
-Styling of the page with MUICSS still open.
+Styling of the page with MUICSS is still open.
 
 ### Thoughts 
 In a Jinja base template, you can access a child template’s blocks not only by `{% block content %}{% endblock %}` but also via the special `self` object. 
@@ -52,11 +52,11 @@ To access the child's block use `{{ self.content() }}` in the parent/base templa
 
 ### Today's Progress
 Applied some style to my Flask journal app with MUICSS. 
-Also, I added the Flask journal app to [my personal website](https://lpld.io) :).
+Also, I added the Flask journal app to [my personal website](https://lpld.io) 😊
 
 ### Thoughts
-The documentation of MUICSS and the features all seem a little less then the Bootstrap competition.
-Especially the concept of `mui-appbar` is not quite clear, because there is no example on how to fill it.
+The documentation of MUICSS and the features all seem a little less polished then the Bootstrap competition.
+Especially the concept of `mui-appbar` is not quite clear, because there is no example on how to combine it with other elements.
 
 Figuring out how to deploy the Flask app on my website took actually the most time. 
 Couldn't figure out how to do it via unix socket as it was suggested on [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04#step-4-%E2%80%94-configuring-gunicorn) . 
