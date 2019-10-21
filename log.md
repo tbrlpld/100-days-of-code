@@ -67,3 +67,28 @@ So now I am running the Gunicorn server and proxying from Nginx to it.
 1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Day 4 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a05bb14a112ed98d10be758b3c5a8bca4dc17635)
 3. [Live Version of 100 Day Journal](https://log100days.lpld.io/)
+
+
+## Day 5: October 20, 2019, Sunday
+
+### Today's Progress
+Today no planned activity in #100DaysOfWeb course today, only video. 
+
+To still code a bit, I continued Flask tutorials "Keep Developing" section by implementing an RSS Feed for now posts.  
+This should be interesting, because I really never never worked with RSS. 
+Neither on client nor server side. 
+
+This concludes the proposed topics in the Flask tutorial "Keep Developing" section. 
+
+### Thoughts
+RSS seems pretty simple. Just an `.xml` file that is regularly polled by interested reader.
+But, is anybody still using RSS (as a user)?
+
+### Link(s) to work
+
+1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
+3. [Day 5 Commit (to Flask tutorial)](https://github.com/tbrlpld/flask-tutorial/commit/703d5e2f67f62c3a23884d1b5adb3226e9381b6d)
+
+
+
