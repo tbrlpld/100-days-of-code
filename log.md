@@ -74,14 +74,14 @@ So now I am running the Gunicorn server and proxying from Nginx to it.
 ### Today's Progress
 Today no planned activity in #100DaysOfWeb course today, only video. 
 
-To still code a bit, I continued Flask tutorials "Keep Developing" section by implementing an RSS Feed for now posts.  
+To still code a bit, I continued Flask tutorials "Keep Developing" section by implementing an RSS Feed for new posts.  
 This should be interesting, because I really never never worked with RSS. 
 Neither on client nor server side. 
 
 This concludes the proposed topics in the Flask tutorial "Keep Developing" section. 
 
 ### Thoughts
-RSS seems pretty simple. Just an `.xml` file that is regularly polled by interested reader.
+RSS seems pretty simple. Just an `.xml` file that is regularly polled by an interested reader.
 But, is anybody still using RSS (as a user)?
 
 ### Link(s) to work
