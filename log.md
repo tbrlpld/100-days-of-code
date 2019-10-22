@@ -91,4 +91,19 @@ But, is anybody still using RSS (as a user)?
 3. [Day 5 Commit (to Flask tutorial)](https://github.com/tbrlpld/flask-tutorial/commit/703d5e2f67f62c3a23884d1b5adb3226e9381b6d)
 
 
+## Day 6: October 21, 2019, Monday
+
+### Today's Progress
+Recreated Google landing page from 1998. 
+
+### Thoughts
+Client side form input validation is pretty helpful, because it is immediate.
+Doesn't replace server side validation, but is helpful in it's responsiveness. 
+
+### Link(s) to work
+
+1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+2. [Day 6 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/52fec0b1b494fdc778887c0945ac4e9b550d7079)
+
+
 
