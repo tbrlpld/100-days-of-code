@@ -94,11 +94,11 @@ But, is anybody still using RSS (as a user)?
 ## Day 6: October 21, 2019, Monday
 
 ### Today's Progress
-Recreated Google landing page from 1998. 
+Recreated the Google landing page from 1998 with HTML. 
 
 ### Thoughts
 Client side form input validation is pretty helpful, because it is immediate.
-Doesn't replace server side validation, but is helpful in it's responsiveness. 
+It doesn't replace server side validation, but is helpful in it's responsiveness. 
 
 ### Link(s) to work
 
@@ -106,4 +106,16 @@ Doesn't replace server side validation, but is helpful in it's responsiveness.
 2. [Day 6 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/52fec0b1b494fdc778887c0945ac4e9b550d7079)
 
 
+## Day 7: October 21, 2019, Tuesday
 
+### Today's Progress
+Made the recreated 1998 Google landing page responsive 😊
+
+### Thoughts
+Images create a strange space below it. No padding or margin set. This can be removed when setting `display` to `block`.
+
+
+### Link(s) to work
+
+1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+2. [Day 7 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c52e66090af552e959d524fee3eed996ad4acb98)
