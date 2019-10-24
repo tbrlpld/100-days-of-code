@@ -106,7 +106,7 @@ It doesn't replace server side validation, but is helpful in it's responsiveness
 2. [Day 6 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/52fec0b1b494fdc778887c0945ac4e9b550d7079)
 
 
-## Day 7: October 21, 2019, Tuesday
+## Day 7: October 22, 2019, Tuesday
 
 ### Today's Progress
 Made the recreated 1998 Google landing page responsive 😊
@@ -119,3 +119,24 @@ Images create a strange space below it. No padding or margin set. This can be re
 
 1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
 2. [Day 7 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c52e66090af552e959d524fee3eed996ad4acb98)
+
+
+## Day 8: October 23, 2019, Wednesday
+
+### Today's Progress
+Spent a bunch of time trying to contribute to `wemake-python-styleguide` to add a clarification in the documentation. #Hacktoberfest
+
+Created register form for responsive 1998 Google landing page for #100DaysOfCode. 
+
+### Thoughts
+`flake8` was running slow an throws a bunch of warnings in `wemake-python-styleguide`. 
+Not sure if this is normal or caused by my setup. 
+
+Working on a linter, that uses several linters and linting packages and also lints itself if kind of a brain fuck 😬
+
+### Link(s) to work
+
+1. [wemake-python-styleguide Pull Request](https://github.com/wemake-services/wemake-python-styleguide/pull/936)
+2. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+3. [Day 8 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d0bcbe74b108180b8c242c21eb81a4e5b70eea2)
+
