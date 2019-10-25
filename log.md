@@ -140,3 +140,18 @@ Working on a linter, that uses several linters and linting packages and also lin
 2. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
 3. [Day 8 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d0bcbe74b108180b8c242c21eb81a4e5b70eea2)
 
+
+## Day 9: October 24, 2019, Thursday
+
+### Today's Progress
+Learned basics of API Star and Postman #100DaysOfWeb @TalkPython @Pybites
+
+
+### Thoughts
+The API Star version used (0.5) seems outdated and the package has been massively remodelled in its following release (0.6).
+
+### Link(s) to work
+
+1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 9 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dd1d42b11b71e7ce716946b8180ca31174c0e9a9)
+
