@@ -157,7 +157,7 @@ The API Star version used (0.5) seems outdated and the package has been massivel
 2. [Day 9 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dd1d42b11b71e7ce716946b8180ca31174c0e9a9)
 
 
-## Day 10: October 24, 2019, Friday
+## Day 10: October 25, 2019, Friday
 
 ### Today's Progress
 Continued learning about API Star and testing with `pytest. 
@@ -169,7 +169,21 @@ I do like the simplicity of `pytest` alot! Better than the class definition used
 No idea what kind of API to build in the next two days so far.
 
 ### Link(s) to work
-
 1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
 2. [Day 10 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5012fd29a38cb7d0963013b5c3e5aa43ab797b21)
 
+
+## Day 11: October 26, 2019, Saturday
+
+### Today's Progress
+Started creation of simple users API with API star for #100DaysOfWeb @TalkPython @Pybites
+Applied TDD by writing the functions with `pytest` first.
+Read for all and one is implemented. Next is Create, Update and Delete.
+
+### Thoughts
+The change in API Star resulted in them overhauling the documentation. 
+Could not find the documentation for 0.5 anymore.
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 11 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f4f615ba52e7da80f945cf1526c3dd9388913d73)
