@@ -144,7 +144,8 @@ Working on a linter, that uses several linters and linting packages and also lin
 ## Day 9: October 24, 2019, Thursday
 
 ### Today's Progress
-Learned basics of API Star and Postman #100DaysOfWeb @TalkPython @Pybites
+Learned basics of API Star and Postman #100DaysOfWeb @TalkPython @Pybites.
+Implemented cars API with read all, read one and create new car endpoints.
 
 
 ### Thoughts
@@ -154,4 +155,21 @@ The API Star version used (0.5) seems outdated and the package has been massivel
 
 1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
 2. [Day 9 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dd1d42b11b71e7ce716946b8180ca31174c0e9a9)
+
+
+## Day 10: October 24, 2019, Friday
+
+### Today's Progress
+Continued learning about API Star and testing with `pytest. 
+Extended the car API with update and delete features and added testing for all endpoints. #100DaysOfWeb @TalkPython @Pybites
+
+### Thoughts
+I do like the simplicity of `pytest` alot! Better than the class definition used by `unittest`.
+
+No idea what kind of API to build in the next two days so far.
+
+### Link(s) to work
+
+1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 10 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5012fd29a38cb7d0963013b5c3e5aa43ab797b21)
 
