@@ -205,3 +205,20 @@ Today was also a travel day. Worked on the programming quite late, so I could no
 ### Link(s) to work
 1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
 2. [Day 12 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/03adf2b642c961e64b77f25786c87805fb9eb0c6)
+
+
+## Day 13: October 28, 2019, Monday
+
+### Today's Progress
+Learned some CSS basics from #100DaysOfWeb @TalkPython @Pybites
+Finally getting a grasp on the CSS selector chaining and inheritance.
+
+Also, tried to get back into an old [Django project of mine](https://gitlab.com/tbrlpld/caejobdiary).
+Mainly reading old code. Trying to get back into the structure.
+
+### Thoughts
+No code created today. Mainly occupied with reading code.
+Does not feel good, but I guess it is understandable that it takes some time trying to get back into an old project that I have not touched for months.
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
