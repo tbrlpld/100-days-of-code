@@ -187,3 +187,21 @@ Could not find the documentation for 0.5 anymore.
 ### Link(s) to work
 1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
 2. [Day 11 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f4f615ba52e7da80f945cf1526c3dd9388913d73)
+
+
+## Day 12: October 27, 2019, Sunday
+
+### Today's Progress
+Continued users API with API star for #100DaysOfWeb @TalkPython @Pybites
+Added create, update and delete endpoints in test driven manner.
+
+### Thoughts
+This was fairly routine by the second time.
+I would probably be more complex when there are more features included or checks that need to be performed.
+Does it make sense to create a bunch of CRUD endpoints that are only used internally in an application? 
+
+Today was also a travel day. Worked on the programming quite late, so I could not really give it my best.
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 12 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/03adf2b642c961e64b77f25786c87805fb9eb0c6)
