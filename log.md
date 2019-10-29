@@ -222,3 +222,26 @@ Does not feel good, but I guess it is understandable that it takes some time try
 
 ### Link(s) to work
 1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+
+
+## Day 14: October 29, 2019, Tuesday
+
+### Today's Progress
+Played around with CSS selectors a bit #100DaysOfWeb @TalkPython @Pybites
+
+Continued with my old Django project. 
+Struggling to find a good solution for a may-to-many widget.
+
+### Thoughts
+Really wondering if I should create the the many-to-many solution myself or trying to make it work with `django-autocomplete-light` (DAL). 
+The issues I am having with it that it does not validate the tags and also does not enforce the uniqueness. 
+
+Also, I do not know how to render it in my custom form. 
+Guess I could just copy and paste the rendered from and make my modifications. 
+
+Another day without any meaningful progress. 
+This really sucks now. 
+Guess this is why I abandoned that project before...
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
