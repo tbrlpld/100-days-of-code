@@ -253,7 +253,16 @@ Guess this is why I abandoned that project before...
 Recreated talkpython.fm header from a list using CSS #100DaysOfWeb @TalkPython @Pybites
 
 The vertical alignment of the image was especially tricky. 
-You need to define an element before that is inline-block, vertical-align: middle and height: 100%
+You need to define an element before that like this:
+ 
+```css
+.frame:before {
+    content: "";
+    display: inline-block; 
+    vertical-align: middle;
+    height: 100%;
+}
+``` 
 
 ### Thoughts
 CSS has a bunch of weird side effects that are not always very clear.
