@@ -234,7 +234,7 @@ Struggling to find a good solution for a may-to-many widget.
 
 ### Thoughts
 Really wondering if I should create the the many-to-many solution myself or trying to make it work with `django-autocomplete-light` (DAL). 
-The issues I am having with it that it does not validate the tags and also does not enforce the uniqueness. 
+My issues with it are that it does not validate the tags and also does not enforce the uniqueness. These are typical Django issues when using the `.save()` or `.get_or_create()` method of a model.
 
 Also, I do not know how to render it in my custom form. 
 Guess I could just copy and paste the rendered from and make my modifications. 
@@ -245,3 +245,20 @@ Guess this is why I abandoned that project before...
 
 ### Link(s) to work
 1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+
+
+## Day 15: October 30, 2019, Wednesday
+
+### Today's Progress
+Recreated talkpython.fm header from a list using CSS #100DaysOfWeb @TalkPython @Pybites
+
+The vertical alignment of the image was especially tricky. 
+You need to define an element before that is inline-block, vertical-align: middle and height: 100%
+
+### Thoughts
+CSS has a bunch of weird side effects that are not always very clear.
+This is where front-end frameworks really help.
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+2. [Day 15 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/57dc34280b6a02c210fef6819737837b97c30461)
