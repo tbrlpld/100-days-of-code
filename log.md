@@ -254,15 +254,14 @@ Recreated talkpython.fm header from a list using CSS #100DaysOfWeb @TalkPython @
 
 The vertical alignment of the image was especially tricky. 
 You need to define an element before that like this:
- 
-```css
-.frame:before {
-    content: "";
-    display: inline-block; 
-    vertical-align: middle;
-    height: 100%;
-}
-``` 
+    
+    .frame:before {
+        content: "";
+        display: inline-block; 
+        vertical-align: middle;
+        height: 100%;
+    }
+
 
 ### Thoughts
 CSS has a bunch of weird side effects that are not always very clear.
@@ -271,3 +270,22 @@ This is where front-end frameworks really help.
 ### Link(s) to work
 1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
 2. [Day 15 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/57dc34280b6a02c210fef6819737837b97c30461)
+
+
+## Day 16: October 31, 2019, Thursday
+
+### Today's Progress
+Learned about Python type hinting and mypy. 
+Worked on the "change" kata using OOP and created a single executable with PyInstaller .
+
+Also, checked out a few bootstrap templates for #100DaysOfWeb @TalkPython @Pybites
+
+### Thoughts
+Guess this was the first time actually using OOP in the proper manner.
+Also the first time I made a single executable of an app! Super easy with PyInstaller! 
+That is awesome.
+
+
+### Link(s) to work
+1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+2. [Day 16 Commit -- "Change" Kata](https://github.com/tbrlpld/kata/commit/29aefb720d3b18ec406c48dcfd88e09982713282)
