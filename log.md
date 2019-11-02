@@ -289,3 +289,19 @@ That is awesome.
 ### Link(s) to work
 1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
 2. [Day 16 Commit -- "Change" Kata](https://github.com/tbrlpld/kata/commit/29aefb720d3b18ec406c48dcfd88e09982713282)
+
+
+
+
+## Day 17: November 1, 2019, Friday
+
+### Today's Progress
+Learned about how to combine Flask and Requests to display data from APIs.
+Create a page to display random Chuck Norris jokes for #100DaysOfWeb @TalkPython @Pybites
+
+### Thoughts
+Really like how simple it is to grap data with requests.
+
+
+### Link(s) to work
+1. [Day 17 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6edd73912c5d0e2f6e73a9e967bd53d01e2f9a70)
