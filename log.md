@@ -291,13 +291,11 @@ That is awesome.
 2. [Day 16 Commit -- "Change" Kata](https://github.com/tbrlpld/kata/commit/29aefb720d3b18ec406c48dcfd88e09982713282)
 
 
-
-
 ## Day 17: November 1, 2019, Friday
 
 ### Today's Progress
 Learned about how to combine Flask and Requests to display data from APIs.
-Create a page to display random Chuck Norris jokes for #100DaysOfWeb @TalkPython @Pybites
+Create a page to display random Chuck Norris jokes for #100DaysOfWeb @TalkPython @Pybites using https://api.chucknorris.io/
 
 ### Thoughts
 Really like how simple it is to grap data with requests.
@@ -305,3 +303,24 @@ Really like how simple it is to grap data with requests.
 
 ### Link(s) to work
 1. [Day 17 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6edd73912c5d0e2f6e73a9e967bd53d01e2f9a70)
+
+
+## Off-Day: November 2, 2019, Saturday
+
+Attended friends' wedding.
+
+
+## Day 18: November 3, 2019, Sunday
+
+### Today's Progress
+Created a page to display beers 🍺 sorted by their IBU value with brewerydb.com for #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+It is kind of crazy how many endpoints for brewerydb.com exist. 
+Well, I guess thats because they make this a business. 
+
+Also, there is an app by them called BreweryMap, which does exactly what it says 😊🍺
+
+
+### Link(s) to work
+1. [Day 18 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b819564bf6198e51bc9bda98eae7a11a7159b56)
