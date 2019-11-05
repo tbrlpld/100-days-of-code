@@ -334,7 +334,7 @@ Learned how to combine Flask form actions and API calls and created a page to di
 ### Thoughts
 This was fairly simple. I really like how straight forward Flask is. 
 
-Also, project idea: APIAPI ^^ 
+Also, project idea: APIAPI ^^
 
 ### Link(s) to work
 1. [Day 19 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/bdb517723d85735db330adffb980dd273d8b0740)
