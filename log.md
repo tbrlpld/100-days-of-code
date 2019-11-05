@@ -324,3 +324,17 @@ Also, there is an app by them called BreweryMap, which does exactly what it says
 
 ### Link(s) to work
 1. [Day 18 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b819564bf6198e51bc9bda98eae7a11a7159b56)
+
+
+## Day 19: November 4, 2019, Monday
+
+### Today's Progress
+Learned how to combine Flask form actions and API calls and created a page to display Pokemon by a given color for #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+This was fairly simple. I really like how straight forward Flask is. 
+
+Also, project idea: APIAPI ^^ 
+
+### Link(s) to work
+1. [Day 19 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/bdb517723d85735db330adffb980dd273d8b0740)
