@@ -338,3 +338,21 @@ Also, project idea: APIAPI ^^
 
 ### Link(s) to work
 1. [Day 19 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/bdb517723d85735db330adffb980dd273d8b0740)
+
+
+## Day 20: November 5, 2019, Tuesday
+
+### Today's Progress
+Tried to extend the Pokemon page with additional information for #100DaysOfWeb @TalkPython @PyBites
+This resulted in a very slow solution, because each Pokemon's endpoint needs to be hit separately to get more data. 
+
+### Thoughts
+The PokeAPI can get a little confusing, because the different values are not really explained. 
+E.g. what is a Form or Nature of a Pokemon, how a certain Pokemon is the combination of Form and Species, etc. 
+This makes it a little confusing to work with.  
+
+The design of the API requires to first get the species of a color and get every species to extract every color.
+This is not very performant.
+
+### Link(s) to work
+1. [Day 20 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c021246b19cf0dcbc7d3d3fa8b2e189963928842)
