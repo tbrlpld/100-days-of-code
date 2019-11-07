@@ -344,7 +344,7 @@ Also, project idea: APIAPI ^^
 
 ### Today's Progress
 Tried to extend the Pokemon page with additional information for #100DaysOfWeb @TalkPython @PyBites
-This resulted in a very slow solution, because each Pokemon's endpoint needs to be hit separately to get more data. 
+This resulted in a very slow implementation, because each Pokemon's endpoint needs to be hit separately to get more data. 
 
 ### Thoughts
 The PokeAPI can get a little confusing, because the different values are not really explained. 
@@ -356,3 +356,17 @@ This is not very performant.
 
 ### Link(s) to work
 1. [Day 20 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c021246b19cf0dcbc7d3d3fa8b2e189963928842)
+
+
+## Day 21: November 6, 2019, Wednesday
+
+### Today's Progress
+Learned about `asyncio` and turned a simple python script from sync to async #100DaysOfWeb @TalkPython @PyBites
+This is my first contact with asynchronous programming.
+
+### Thoughts
+This is really complex. 
+Main use case for async is to let the current thread do other work, while it is waiting for the reponse of an outside resource.
+
+### Link(s) to work
+1. [Day 21 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
