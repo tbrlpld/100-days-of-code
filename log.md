@@ -370,3 +370,16 @@ Main use case for async is to let the current thread do other work, while it is 
 
 ### Link(s) to work
 1. [Day 21 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
+
+
+## Day 22: November 7, 2019, Wednesday
+
+### Today's Progress
+Turned an existing synchronous web scraping script into an async one #100DaysOfWeb @TalkPython @PyBites
+
+
+### Thoughts
+It is still tricky to find out where to add the asynchronous functions.
+
+### Link(s) to work
+1. [Day 22 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b7a611899898876335af7dbe5560fd126468548a)
