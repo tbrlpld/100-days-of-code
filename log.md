@@ -372,7 +372,7 @@ Main use case for async is to let the current thread do other work, while it is 
 1. [Day 21 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
 
 
-## Day 22: November 7, 2019, Wednesday
+## Day 22: November 7, 2019, Thursday
 
 ### Today's Progress
 Turned an existing synchronous web scraping script into an async one #100DaysOfWeb @TalkPython @PyBites
@@ -383,3 +383,21 @@ It is still tricky to find out where to add the asynchronous functions.
 
 ### Link(s) to work
 1. [Day 22 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b7a611899898876335af7dbe5560fd126468548a)
+
+
+## Day 23: November 8, 2019, Friday
+
+### Today's Progress
+Learned how to turn a synchronous #pythonflask API app into an asynchronous Quart app #100DaysOfWeb @TalkPython @PyBites
+Used learned skill on two endpoints of a predefined Flask app ✅
+
+### Thoughts
+I guess the place to add the async functions is anywhere where an external service is slow. 
+This could be a database interaction or web request. 
+
+Minor hickups due to wifi blacking out and me wondering if my web calls are bad ^^. 
+Also, internet (cellular) is particularly slow today. 
+Can't wait for the cable connection.
+
+### Link(s) to work
+1. [Day 23 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/505d3e156089440d36955a75f5282462983bee9e)
