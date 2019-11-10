@@ -401,3 +401,46 @@ Can't wait for the cable connection.
 
 ### Link(s) to work
 1. [Day 23 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/505d3e156089440d36955a75f5282462983bee9e)
+
+
+## Day 24: November 9, 2019, Saturday
+
+### Today's Progress
+Turned my `log100days` app, which renders my markdown log into HTML, from Flask to an async Quart app. 
+Because I am not caching any of the markdown in the app, this should really increase performance and scalability. 
+ #100DaysOfWeb @TalkPython @PyBites
+
+
+### Thoughts
+Internet is way too bad... can't deploy the app right now...
+Damn. Developed the Quart app with a newer version of Python than I have on the server...
+So this did not work. 
+Now I need to update the Python on the server. But for some reason on the server there are not all tools I need! 
+How to get `zlib` on Ubuntu? 
+
+Looks like you need a bunch of packages to install Python on Ubuntu. 
+[Here are some listed](https://askubuntu.com/questions/21547/what-are-the-packages-libraries-i-should-install-before-compiling-python-from-so)
+
+```
+build-essential
+libncursesw5-dev
+libreadline-gplv2-dev
+libssl-dev
+libgdbm-dev
+libc6-dev
+libsqlite3-dev
+libbz2-dev
+libffi-dev
+liblzma-dev
+tk-dev
+libdb-dev
+```
+
+This finally worked. 
+Damn this took me most the time today. 
+Ok, the slow connection to my server also did not make it any faster.
+
+**But** this points out why development environment and deployment environment should always be as similar as possible‼️
+
+### Link(s) to work
+1. [Day 24 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d1f4557f278e2d10a2f5e7c76e4d59020928c972)
