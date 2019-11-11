@@ -444,3 +444,23 @@ Ok, the slow connection to my server also did not make it any faster.
 
 ### Link(s) to work
 1. [Day 24 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d1f4557f278e2d10a2f5e7c76e4d59020928c972)
+
+
+## Day 25: November 10, 2019, Sunday
+
+### Today's Progress
+Learned JS basics from #100DaysOfWeb @TalkPython @PyBites
+
+Also, dove into object-oriented JS with @MozDevNet
+
+### Thoughts
+Glad there is finally a `class` syntax in ECMAScript2015!
+
+JS is so implicit 😏 and I really support Python's "Explicit is better than implicit." 
+
+Really need to get used to this. 
+Seems like by getting better JS is getting more and more similar to Python 🙃
+
+### Link(s) to work
+1. [Day 25 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d9cf4682e0c3f6a6fda79fcc802245aafd123644)
+2. [Inheritance in JavaScript -- MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
