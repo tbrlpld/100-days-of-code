@@ -459,8 +459,21 @@ Glad there is finally a `class` syntax in ECMAScript2015!
 JS is so implicit 😏 and I really support Python's "Explicit is better than implicit." 
 
 Really need to get used to this. 
-Seems like by getting better JS is getting more and more similar to Python 🙃
+Seems like as JS is getting better, it is getting more and more similar to Python 🙃
 
 ### Link(s) to work
 1. [Day 25 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d9cf4682e0c3f6a6fda79fcc802245aafd123644)
 2. [Inheritance in JavaScript -- MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+
+
+## Day 26: November 11, 2019, Monday
+
+### Today's Progress
+Practised JS basics with four little exercises for #100DaysOfWeb @TalkPython @PyBites
+
+
+### Thoughts
+The basics of JS seem quite simple and similar to Python.
+
+### Link(s) to work
+1. [Day 26 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f18961caa478ebc572e2e2f5c8a92a6bf3ecc57d)
