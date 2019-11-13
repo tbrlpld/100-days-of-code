@@ -477,3 +477,17 @@ The basics of JS seem quite simple and similar to Python.
 
 ### Link(s) to work
 1. [Day 26 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f18961caa478ebc572e2e2f5c8a92a6bf3ecc57d)
+
+
+## Day 27: November 12, 2019, Tuesday
+
+### Today's Progress
+Learned about and played around with vanilla #JS DOM manipulation #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Never done DOM manipulation without jQuery so far ^^ 
+Good to know how to do it without any external dependencies.
+
+
+### Link(s) to work
+1. [Day 27 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/aa553e8c42fe55535b279708bf814e00004134c9)
