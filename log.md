@@ -503,3 +503,20 @@ Practised #JS by implementing a simple calculator and a calorie counting app #10
 
 ### Link(s) to work
 1. [Day 28 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2f6f14a6dea7c7523e5954c6b457e94baca65452)
+
+
+## Day 29: November 14, 2019, Thursday
+
+### Today's Progress
+Learned about static site generation with @getpelican, @GitHub and @Netlify #100DaysOfWeb @TalkPython @PyBites
+
+Went overboard and watched all videos for two days and put the new knowledge to work.
+So, I have a blog now ^^ blog.lpld.io
+
+### Thoughts
+Nice. 
+I wanted to create a blog for myself anyhow. 
+Now I got one through this source 😅 
+
+### Link(s) to work
+1. [Day 29 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/80e795481ecaa6e8a3e606f1c9b2f79e72b5eb04)
