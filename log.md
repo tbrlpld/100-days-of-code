@@ -520,3 +520,18 @@ Now I got one through this source 😅
 
 ### Link(s) to work
 1. [Day 29 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/80e795481ecaa6e8a3e606f1c9b2f79e72b5eb04)
+
+
+## Day 30: November 15, 2019, Friday
+
+### Today's Progress
+Started contributing to @getpelican to make the base template responsive.
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Most of my time when in to get my setup running though 😅 
+Hope to be more productive tomorrow.
+
+### Link(s) to work
+1. [Day 30 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
+2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
