@@ -525,7 +525,7 @@ Now I got one through this source 😅
 ## Day 30: November 15, 2019, Friday
 
 ### Today's Progress
-Started contributing to @getpelican to make the base template responsive.
+Started contributing to @getpelican to make the default template responsive.
  #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
@@ -534,4 +534,19 @@ Hope to be more productive tomorrow.
 
 ### Link(s) to work
 1. [Day 30 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
+2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
+
+
+## Day 31: November 16, 2019, Saturday
+
+### Today's Progress
+Continues making the @getpelican default template responsive.
+So mainly css today.
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Wow, this is taking quite some time.
+
+### Link(s) to work
+1. [Day 31 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
 2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
