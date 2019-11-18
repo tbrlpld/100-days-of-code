@@ -540,7 +540,7 @@ Hope to be more productive tomorrow.
 ## Day 31: November 16, 2019, Saturday
 
 ### Today's Progress
-Continues making the @getpelican default template responsive.
+Continued making the @getpelican default template responsive.
 So mainly css today.
  #100DaysOfWeb @TalkPython @PyBites
 
@@ -550,3 +550,25 @@ Wow, this is taking quite some time.
 ### Link(s) to work
 1. [Day 31 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
 2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
+
+
+## Day 32: November 17, 2019, Sunday
+
+### Today's Progress
+Planned to write my first blog article out of the notes I have about setting my @getpelican blog up. 
+But, I got caught up on adding the "Attila" theme to it 😅
+
+Now I have two post idea to write out 😬
+
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+First thing should be to write out how the blog is set up in general. 
+Though I would just extend the first article, but it turned out to be long enough for a separate article. 
+
+Also, should continue with making the default template responsive. 
+This does not need to be too crazy, just so that it looks fine on a small display.
+
+### Link(s) to work
+1. [Day 31 Commit -- Adding Blog Theme](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/032a357722ca3bfe8a70d60a6d306a8496579f67)
+2. [Attila Theme for Pelican](https://github.com/arulrajnet/attila)
