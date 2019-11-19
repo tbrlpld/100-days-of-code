@@ -572,3 +572,20 @@ This does not need to be too crazy, just so that it looks fine on a small displa
 ### Link(s) to work
 1. [Day 31 Commit -- Adding Blog Theme](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/032a357722ca3bfe8a70d60a6d306a8496579f67)
 2. [Attila Theme for Pelican](https://github.com/arulrajnet/attila)
+
+
+## Day 33: November 18, 2019, Sunday
+
+### Today's Progress
+Watched video lessons on @SQLAlchemy #100DaysOfWeb @TalkPython @PyBites
+The definition of relationships and of the base class seem a little complex 😒 Hope i'll get it soon.
+
+### Thoughts
+Gonna try to get some coding done tomorrow. 
+Only watching videos does not feel good 😬
+
+Need to get a grasp on the one-to-many relationship. 
+Why the hell do I need `parent_id` and `parent` on the child?
+Shouldn't I get the id of the parent of the child with something like `child.parent.id`... 
+
+Gave up on the responsive pelican default theme, because [somebody else is already creating one](https://github.com/getpelican/pelican/issues/1704#issuecomment-554825227). 
