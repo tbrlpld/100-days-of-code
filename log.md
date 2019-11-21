@@ -589,3 +589,23 @@ Why the hell do I need `parent_id` and `parent` on the child?
 Shouldn't I get the id of the parent of the child with something like `child.parent.id`... 
 
 Gave up on the responsive pelican default theme, because [somebody else is already creating one](https://github.com/getpelican/pelican/issues/1704#issuecomment-554825227). 
+
+
+## Day 34: November 19, 2019, Tuesday
+
+### Today's Progress
+Played around with @SQLAlchemy relationships. 
+I see a lot more clear than yesterday 🤩
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+This lesson was not very good. 
+Not because of SQLAlchemy, but because that example app was way too complex (unnecessarily). 
+The structure of the app made it really hard to follow along. 
+
+Also in the lesson videos, the whole jumping around between the different views and features in PyCharm is not very helpful and way to fast. 
+
+Hope I can build something over the next two days to get some more hands on experience with SQLAlchemy. 
+
+### Link(s) to work
+1. [Day 34 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
