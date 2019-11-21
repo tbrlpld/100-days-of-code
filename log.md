@@ -608,4 +608,4 @@ Also in the lesson videos, the whole jumping around between the different views 
 Hope I can build something over the next two days to get some more hands on experience with SQLAlchemy. 
 
 ### Link(s) to work
-1. [Day 34 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
+1. [Day 34 Commit -- SQL Alchemy Relationship Practice](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
