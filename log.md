@@ -609,3 +609,42 @@ Hope I can build something over the next two days to get some more hands on expe
 
 ### Link(s) to work
 1. [Day 34 Commit -- SQL Alchemy Relationship Practice](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
+
+
+## Day 35: November 20, 2019, Wednesday
+
+### Today's Progress
+Started building an inventory and production line management system to practice @SQLAlchemy. 
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Practice definitely helps. 
+
+Still having a bit of a hard time understanding how to organize the session maker. 
+Apparently you only want one instance of the session maker. 
+That session maker instance is then supposed to be called every time I need a session. 
+Seems like it should be an application for a singleton. 
+Maybe have to look into that a bit more tomorrow.
+
+### Link(s) to work
+1. [Day 35 Commit -- SQL Alchemy Production Line Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d3d3918793e2df4c203aa1c6bc9454eb81fe4bb6)
+2. [Singleton in Python -- StackOverflow Thread](https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python)
+
+
+
+## Day 36: November 21, 2019, Thursday
+
+### Today's Progress
+Continued creating an inventory management system to practice @SQLAlchemy. 
+Created CLI to create, update and query data.
+Spent a bit to much time on it though.
+
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Unfortunately, I had not enough time today to build the whole system I wanted. 
+Too much time went into creating the UI. 
+Should be a good project to continue practising the relationships though.
+
+### Link(s) to work
+1. [Day 36 Commit -- SQL Alchemy Inventory Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/793dcb1d5ab6029568704c09a565197b7fe5c665)
