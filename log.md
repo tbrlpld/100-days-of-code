@@ -631,7 +631,6 @@ Maybe have to look into that a bit more tomorrow.
 2. [Singleton in Python -- StackOverflow Thread](https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python)
 
 
-
 ## Day 36: November 21, 2019, Thursday
 
 ### Today's Progress
@@ -648,3 +647,21 @@ Should be a good project to continue practising the relationships though.
 
 ### Link(s) to work
 1. [Day 36 Commit -- SQL Alchemy Inventory Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/793dcb1d5ab6029568704c09a565197b7fe5c665)
+
+
+## Day 37: November 22, 2019, Friday
+
+### Today's Progress
+Got first bit of intro to #pyramid @pylonsproject #100DaysOfWeb @TalkPython @PyBites
+Really looking forward to learn more. 
+Been waiting for this 😊
+
+Also set up first bit of lesson bill tracker app. 
+
+### Thoughts
+Hope the next day explains more about the workings of the Pyramid framework. 
+So far it has been mainly the app setup. 
+Have not really worked with much of the Pyramid functionality.
+
+### Link(s) to work
+1. [Day 37 Commit -- Setup Pyramid Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/365d86dd4e514c1a2774cc3119d7586f201f5f02)
