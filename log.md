@@ -670,11 +670,16 @@ Have not really worked with much of the Pyramid functionality.
 ## Day 38: November 23, 2019, Saturday
 
 ### Today's Progress
+Finished lesson videos on #pyramid intro #100DaysOfWeb @TalkPython @PyBites
+Recreated the Bill Tracker demo app and added extended it with some authentication @pylonsproject 
 
- #100DaysOfWeb @TalkPython @PyBites
+Really enjoying #pyramid framework. 
 
 ### Thoughts
-
+Still not feeling super excited about how the lesson was going. 
+The apps of choice seem too large sometimes and the automatic imports and so on in PyCharm (in the videos) do not help understanding the basic concepts. 
+Seems more designed to teach you PyCharm then the actual topic (Pyramid in this case).
 
 ### Link(s) to work
-1. [Day 38 Commit -- ]()
+1. [Day 38 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
+2. [Pyramid Authentication](https://docs.pylonsproject.org/projects/pyramid/en/1.10-branch/tutorials/wiki2/authentication.html)
