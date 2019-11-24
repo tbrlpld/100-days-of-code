@@ -665,3 +665,16 @@ Have not really worked with much of the Pyramid functionality.
 
 ### Link(s) to work
 1. [Day 37 Commit -- Setup Pyramid Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/365d86dd4e514c1a2774cc3119d7586f201f5f02)
+
+
+## Day 38: November 23, 2019, Saturday
+
+### Today's Progress
+
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+
+
+### Link(s) to work
+1. [Day 38 Commit -- ]()
