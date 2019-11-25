@@ -681,5 +681,25 @@ The apps of choice seem too large sometimes and the automatic imports and so on 
 Seems more designed to teach you PyCharm then the actual topic (Pyramid in this case).
 
 ### Link(s) to work
-1. [Day 38 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
+1. [Day 38 Commit -- Pyramid Exmaple Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
 2. [Pyramid Authentication](https://docs.pylonsproject.org/projects/pyramid/en/1.10-branch/tutorials/wiki2/authentication.html)
+
+
+## Day 39: November 24, 2019, Sunday
+
+### Today's Progress
+Started creating a finance ledger app with #pyramid @SQLAlchemy from scratch #100DaysOfWeb @TalkPython @PyBites
+
+So far only created the database models.
+The navigating the starter and database modelling took quite some time.
+
+Tomrrow I need to add the authentication, create the routes, views and the template for user interaction. 
+
+### Thoughts
+The cookiecutter starter also included Alembic, which I haven't used before. 
+Three new topics at once is maybe a bit much at once. 
+Maybe I should have just started with a copy of the example project...
+
+
+### Link(s) to work
+1. [Day 38 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
