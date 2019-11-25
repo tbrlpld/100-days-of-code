@@ -693,7 +693,7 @@ Started creating a finance ledger app with #pyramid @SQLAlchemy from scratch #10
 So far only created the database models.
 The navigating the starter and database modelling took quite some time.
 
-Tomrrow I need to add the authentication, create the routes, views and the template for user interaction. 
+Tomorrow I need to add the authentication, create the routes, views and the template for user interaction. 
 
 ### Thoughts
 The cookiecutter starter also included Alembic, which I haven't used before. 
@@ -702,4 +702,4 @@ Maybe I should have just started with a copy of the example project...
 
 
 ### Link(s) to work
-1. [Day 38 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
+1. [Day 39 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/4d6514b074302d058c68e2b78e7eb14c2f63cc5c)
