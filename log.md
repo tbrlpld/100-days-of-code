@@ -703,3 +703,20 @@ Maybe I should have just started with a copy of the example project...
 
 ### Link(s) to work
 1. [Day 39 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/4d6514b074302d058c68e2b78e7eb14c2f63cc5c)
+
+
+## Day 40: November 25, 2019, Monday
+
+### Today's Progress
+😖 Kinda wastes the day with trying to figure out how to access the active pyramid config out side of a request. 
+Only to find that the preconfigured way to access it is much more elegant... hope to catch up with app dev tomorrow. 
+
+### Thoughts
+Working on a plane without internet does not really work, when you don't know yet what you are doing. 
+
+But, I need to pay attention to this habit. 
+Trying to force something fore hours and getting lost in these mental loops. 
+I could have just gone with the way it was set up and tried to find another way once I had the ability to actually look up stuff I do not know yet. 
+
+### Link(s) to work
+1. [Day 40 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b78bc81ca61490cbbccb9c9a9bed9423b6deee8a)
