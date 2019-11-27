@@ -725,17 +725,16 @@ I could have just gone with the way it was set up and tried to find another way 
 ## Day 41: November 26, 2019, Tuesday
 
 ### Today's Progress
-Learned about react and build an app with it to show Python tips from @pybites website
+Learned about #react and build an app with it to show Python tips from @pybites website
  #100DaysOfWeb @TalkPython
 
+Also went back to my ledger app and finally added some logic.
 
 ### Thoughts
 React seems pretty straight forward. 
 Using JSX in the editor still needs some getting used to, because of the mix of HMTL and JavaScript syntax. 
 Not always sure how to set up the autocomplete options.
 
- 
-
-
 ### Link(s) to work
-1. [Day 40 Commit -- React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
+1. [Day 41 Commit -- React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
+1. [Day 41 Commit -- Ledger App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/32bab4c2e100fc7b179a88efbca45e0ad4d28fec)
