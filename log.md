@@ -709,7 +709,7 @@ Maybe I should have just started with a copy of the example project...
 
 ### Today's Progress
 😖 Kinda wastes the day with trying to figure out how to access the active pyramid config out side of a request. 
-Only to find that the preconfigured way to access it is much more elegant... hope to catch up with app dev tomorrow. 
+Only to find that the preconfigured way to access it is much more elegant... hope to catch up with app dev tomorrow. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Working on a plane without internet does not really work, when you don't know yet what you are doing. 
@@ -720,3 +720,22 @@ I could have just gone with the way it was set up and tried to find another way 
 
 ### Link(s) to work
 1. [Day 40 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b78bc81ca61490cbbccb9c9a9bed9423b6deee8a)
+
+
+## Day 41: November 26, 2019, Tuesday
+
+### Today's Progress
+Learned about react and build an app with it to show Python tips from @pybites website
+ #100DaysOfWeb @TalkPython
+
+
+### Thoughts
+React seems pretty straight forward. 
+Using JSX in the editor still needs some getting used to, because of the mix of HMTL and JavaScript syntax. 
+Not always sure how to set up the autocomplete options.
+
+ 
+
+
+### Link(s) to work
+1. [Day 40 Commit -- React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
