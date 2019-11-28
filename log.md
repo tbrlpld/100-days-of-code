@@ -738,3 +738,22 @@ Not always sure how to set up the autocomplete options.
 ### Link(s) to work
 1. [Day 41 Commit -- React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
 1. [Day 41 Commit -- Ledger App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/32bab4c2e100fc7b179a88efbca45e0ad4d28fec)
+
+
+## Day 42: November 27, 2019, Wednesday
+
+### Today's Progress
+Built a #react todo app, that is pre-populated with data from an API. 
+ #100DaysOfWeb @TalkPython @pybites
+
+Could not figure out how to add elements to the beginning of the array.
+That only led to a repeated last element. 
+This must have something todo with the rendering engine.
+
+### Thoughts
+React seems quite nice.
+Weird that I already managed to run in some sore of bug...
+
+### Link(s) to work
+1. [Day 42 Commit -- React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
+
