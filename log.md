@@ -757,3 +757,16 @@ Weird that I already managed to run in some sore of bug...
 ### Link(s) to work
 1. [Day 42 Commit -- React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
 
+
+## Day 43: November 29, 2019, Friday
+
+### Today's Progress
+Yesterday, skipday for thanksgiving. 
+Learned some more about #React and recreated the example "Free Monkey" hangman variant #100DaysOfWeb @TalkPython @pybites
+
+### Thoughts
+React seems pretty straight forward. 
+
+### Link(s) to work
+1. [Day 43 Commit -- React Hangman Game "Free Monkey"](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2d65122102559d7fdfa4eacf9006a127ac1a0849)
+
