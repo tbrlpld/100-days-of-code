@@ -796,3 +796,18 @@ Not sure what is wrong with the tic-tac-toe game...
 1. [Python Singleton](https://twitter.com/tbrlpld/status/1200894629953986561/photo/1)
 2. [Day 44 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
 
+
+
+## Day 45: December 1, 2019, Sunday
+
+### Today's Progress
+Read some of the #reactjs tutorial and fixed my tic-tac-toe game #100DaysOfWeb @TalkPython @pybites
+Not sure what I really did wrong yesterday, but the game is much cleaner now. 
+State is only handled in the state and not represented in the rendering.
+
+### Thoughts
+
+
+### Link(s) to work
+2. [Day 45 Commit -- React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
+
