@@ -758,6 +758,12 @@ Weird that I already managed to run in some sore of bug...
 1. [Day 42 Commit -- React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
 
 
+
+## Off-Day: November 28, 2019, Thursday
+
+First thanksgiving in the US. 
+
+
 ## Day 43: November 29, 2019, Friday
 
 ### Today's Progress
@@ -769,4 +775,24 @@ React seems pretty straight forward.
 
 ### Link(s) to work
 1. [Day 43 Commit -- React Hangman Game "Free Monkey"](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2d65122102559d7fdfa4eacf9006a127ac1a0849)
+
+
+
+## Day 44: November 30, 2019, Saturday
+
+### Today's Progress
+Do not know why, but it just came to be how I can implement a singleton in Python. 
+Just had to try it out :) 
+
+Created tic-tac-toe game with React.js  #100DaysOfWeb @TalkPython @pybites
+Game logic works, but I can not reset the game 😖
+
+### Thoughts
+Guess the story with the singleton is an example of the brain working with out the conciousness knowing 🤔
+
+Not sure what is wrong with the tic-tac-toe game...
+
+### Link(s) to work
+1. [Python Singleton](https://twitter.com/tbrlpld/status/1200894629953986561/photo/1)
+2. [Day 44 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
 
