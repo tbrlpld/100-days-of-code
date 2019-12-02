@@ -805,9 +805,24 @@ Read some of the #reactjs tutorial and fixed my tic-tac-toe game #100DaysOfWeb @
 Not sure what I really did wrong yesterday, but the game is much cleaner now. 
 State is only handled in the state and not represented in the rendering.
 
+The reset button works now.
+
 ### Thoughts
 
 
 ### Link(s) to work
-2. [Day 45 Commit -- React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
+1. [Day 45 Commit -- React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
 
+
+
+## Day 46: December 2, 2019, Monday
+
+### Today's Progress
+Watched into videos to Django on #100DaysOfWeb @TalkPython @pybites
+Replayed the video steps to create a basic Django app layout today. 
+
+### Thoughts
+I really do not like that Django still not validate anything when saving the models.
+
+### Link(s) to work
+1. [Day 46 Commit -- Django ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
