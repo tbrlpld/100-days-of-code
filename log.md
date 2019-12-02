@@ -818,11 +818,11 @@ The reset button works now.
 ## Day 46: December 2, 2019, Monday
 
 ### Today's Progress
-Watched into videos to Django on #100DaysOfWeb @TalkPython @pybites
+Watched into videos to Django on #100DaysOfWeb @TalkPython @pybites yesterday.
 Replayed the video steps to create a basic Django app layout today. 
 
 ### Thoughts
-I really do not like that Django still not validate anything when saving the models.
+I really do not like that Django does not validate anything when saving the models 🤨
 
 ### Link(s) to work
 1. [Day 46 Commit -- Django ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
