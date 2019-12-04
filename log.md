@@ -818,11 +818,24 @@ The reset button works now.
 ## Day 46: December 2, 2019, Monday
 
 ### Today's Progress
-Watched into videos to Django on #100DaysOfWeb @TalkPython @pybites yesterday.
+Watched intro videos to Django on #100DaysOfWeb @TalkPython @pybites yesterday.
 Replayed the video steps to create a basic Django app layout today. 
 
 ### Thoughts
 I really do not like that Django does not validate anything when saving the models 🤨
 
 ### Link(s) to work
-1. [Day 46 Commit -- Django ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
+1. [Day 46 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
+
+
+## Day 47: December 3, 2019, Tuesday
+
+### Today's Progress
+Finished Django intro videos on #100DaysOfWeb @TalkPython @pybites 
+Recreated the demo Quotes CRUD app with function based views. 
+
+Tomorrow: turning the views into class based views.
+
+
+### Link(s) to work
+1. [Day 47 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cafea254157d5009b10ef0972a0722d6690c1d5b)
