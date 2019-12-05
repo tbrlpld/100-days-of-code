@@ -814,7 +814,6 @@ The reset button works now.
 1. [Day 45 Commit -- React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
 
 
-
 ## Day 46: December 2, 2019, Monday
 
 ### Today's Progress
@@ -839,3 +838,27 @@ Tomorrow: turning the views into class based views.
 
 ### Link(s) to work
 1. [Day 47 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cafea254157d5009b10ef0972a0722d6690c1d5b)
+
+
+## Day 48: December 4, 2019, Tuesday
+
+### Today's Progress
+Finished Django intro by adding class based views with the same functionality as the function based views #100DaysOfWeb @TalkPython @pybites 
+
+So far, using the class based views is really simple when their base functionality is exactly what you need. 
+
+Also tried to continue with the tags feature for CAE Job Diary... 
+
+### Thoughts
+This `django-autocomplete-light` that I wanted to use for the tags widget is kind of annoying me by now. 
+It makes it really hard to customize. 
+I can not catch the change events that the underlying `select2.js` is triggering.
+And, well, let's not forget that it obviously does not validate the model you are saving... 
+
+Maybe I should look for alternate solutions or just build this my self. 
+Should not be that hard... 
+I could use the same approach, and directly use the `select2.js` for the rendering.
+
+
+### Link(s) to work
+1. [Day 48 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
