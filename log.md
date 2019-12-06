@@ -840,7 +840,7 @@ Tomorrow: turning the views into class based views.
 1. [Day 47 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cafea254157d5009b10ef0972a0722d6690c1d5b)
 
 
-## Day 48: December 4, 2019, Tuesday
+## Day 48: December 4, 2019, Wednesday
 
 ### Today's Progress
 Finished Django intro by adding class based views with the same functionality as the function based views #100DaysOfWeb @TalkPython @pybites 
@@ -862,3 +862,17 @@ I could use the same approach, and directly use the `select2.js` for the renderi
 
 ### Link(s) to work
 1. [Day 48 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
+
+
+## Day 49: December 5, 2019, Thursday
+
+### Today's Progress
+Learned about website testing with #Selenium #100DaysOfWeb @TalkPython @pybites 
+
+Reproduced the steps in the videos to create testing for an existing website.
+
+### Thoughts
+Pretty trippy to see the browser just acting on its own 😊
+
+### Link(s) to work
+1. [Day 49 Commit -- Selenium](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
