@@ -869,10 +869,10 @@ I could use the same approach, and directly use the `select2.js` for the renderi
 ### Today's Progress
 Learned about website testing with #Selenium #100DaysOfWeb @TalkPython @pybites 
 
-Reproduced the steps in the videos to create testing for an existing website.
+Reproduced the steps in the videos to create testing for an [existing website](https://pbreadinglist.herokuapp.com/).
 
 ### Thoughts
-Pretty trippy to see the browser just acting on its own 😊
+Trippy to see the browser just acting on its own 😊
 
 ### Link(s) to work
 1. [Day 49 Commit -- Selenium](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
