@@ -894,3 +894,22 @@ Woohoo, half-time.
 2. [Kenneth Rietz's Tweet](https://twitter.com/kennethreitz/status/1202979569667641344)
 
 
+
+## Day 51: December 7, 2019, Saturday
+
+### Today's Progress
+Learned how to use the Twilio SMS service #100DaysOfWeb @TalkPython @pybites
+
+Tried to use it to create a simple two-factor authentication login with SQLAlchemy and the Responder framework.
+
+### Thoughts
+This was probably a bit much for one day. 
+Still need to make the database persistent (right now it is only in memory) and create a way to log out. 
+Also, the different pages should have a simple way of figuring out is the user is already logged in. 
+
+
+### Link(s) to work
+1. [Day 51 Commit -- Twilio](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/804565dac95bf655352799a5c6a9bf84645ff0d6)
+
+
+
