@@ -913,3 +913,22 @@ Also, the different pages should have a simple way of figuring out is the user i
 
 
 
+## Day 52: December 8, 2019, Sunday
+
+### Today's Progress
+Learned how to create full web apps with only Drag and Drop and Python on the #Anvil platform #100DaysOfWeb @TalkPython @pybites
+
+Super easy. Recreated the example app. 
+
+### Thoughts
+That is really easy. 
+Can definitely get you up and running pretty quick. 
+
+
+### Link(s) to work
+1. [Day 52 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/04144cfe4ec8b335dd098306936cdf64590b718a)
+2. [Anvil App](https://stunning-subdued-ask.anvil.app)
+
+
+
+
