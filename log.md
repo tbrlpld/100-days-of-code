@@ -937,33 +937,22 @@ Learned about Django-Registration module #100DaysOfWeb @TalkPython @pybites
 Tried to re-create the demo app. Registration form just reloads. No users created. 😟 
 What's going on here?
 
-### Thoughts
-
 
 ### Link(s) to work
 1. [Day 53 Commit -- Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/118edb94e3e6f30b3ba2d25b5ee82e24d9ca9222)
 
 
-
-
-
-
-
-## Day 52: December 8, 2019, Sunday
+## Day 54: December 10, 2019, Tuesday
 
 ### Today's Progress
-Learned how to create full web apps with only Drag and Drop and Python on the #Anvil platform #100DaysOfWeb @TalkPython @pybites
+Spend basically all day debugging my Django registration #100DaysOfWeb @TalkPython @pybites
 
-Super easy. Recreated the example app. 
-
-### Thoughts
-That is really easy. 
-Can definitely get you up and running pretty quick. 
+First the template was not showing the password criteria.
+In trying to figure that out I created more issues that kept me debugging the rest of the day...
 
 
 ### Link(s) to work
-1. [Day 52 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/04144cfe4ec8b335dd098306936cdf64590b718a)
-2. [Anvil App](https://stunning-subdued-ask.anvil.app)
+1. [Day 54 Commit -- Django Registration Debug](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ac96f23a6a4425bebd9f5876db5ad7f2a5f5b05c)
 
 
 
