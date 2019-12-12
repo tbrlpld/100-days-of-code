@@ -950,9 +950,35 @@ Spend basically all day debugging my Django registration #100DaysOfWeb @TalkPyth
 First the template was not showing the password criteria.
 In trying to figure that out I created more issues that kept me debugging the rest of the day...
 
+### Thoughts
+This really highlights, why it is important to make sure the functionality works before the styling is applied. 
+In this case, using the custom template that introduces the styling did hide away the functionality of showing the field errors properly. 
+This cause my first issue with not being able to register accounts... 
+
+During that process I created the other issue... which of course is my fault.
 
 ### Link(s) to work
 1. [Day 54 Commit -- Django Registration Debug](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ac96f23a6a4425bebd9f5876db5ad7f2a5f5b05c)
+
+
+## Day 55: December 11, 2019, Wednesday
+
+### Today's Progress
+Now that the the registration is working, finally finished adding the authentication to the Quotes app #100DaysOfWeb @TalkPython @pybites
+
+Worked on setting up my dev environment to be able to contribute to `flake8-eradicate`.
+I found a small bug in that tool and was asked by the maintainer to implement the fix he pointed out to me. 
+Still work in progress. 
+Using `peotry` in combination with `pyenv` seems to cause small issues. 
+Continuing tomorrow. 
+
+
+### Thoughts
+🤔
+
+### Link(s) to work
+1. [Day 54 Commit -- Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/571d64183219edb96d36f6ccc60b54734189d4b6)
+2. [`flake8-eradicate` Bug Report](https://github.com/sobolevn/flake8-eradicate/issues/103)
 
 
 
