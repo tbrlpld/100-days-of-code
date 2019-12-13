@@ -981,5 +981,24 @@ Continuing tomorrow.
 2. [`flake8-eradicate` Bug Report](https://github.com/sobolevn/flake8-eradicate/issues/103)
 
 
+## Day 56: December 12, 2019, Thursday
+
+### Today's Progress
+Got the development setup for `flake8-eradicate` up and running using `poetry` dependency manager
+
+Couldn't figure out how to solve the bug I reported. Still working on that.
+
+
+### Thoughts
+🤔
+
+### Link(s) to work
+1. [`flake8-eradicate` Bug Report](https://github.com/sobolevn/flake8-eradicate/issues/103)
+
+
+
+
+
+
 
 
