@@ -1009,6 +1009,21 @@ I know I said I wouldn't count the time spent on the videos in the course, but I
 1. [#100DaysOfWeb in Python](https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python)
 
 
+## Day 58: December 14, 2019, Saturday
+
+### Today's Progress
+Recreated simple demo app with flask-login #100DayOfWeb @TalkPython @pybites
+
+Extended the basic functionality a bit for nicer "user experience". 
+
+Password hashing and styling are still open.
+
+
+### Link(s) to work
+1. [Day 58 Commit -- Flask Login](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37199d2b1bf6e5d11e1027a5448e11a7bdb130e)
+
+
+
 
 
 
