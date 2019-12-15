@@ -988,13 +988,25 @@ Got the development setup for `flake8-eradicate` up and running using `poetry` d
 
 Couldn't figure out how to solve the bug I reported. Still working on that.
 
-
 ### Thoughts
 🤔
 
 ### Link(s) to work
 1. [`flake8-eradicate` Bug Report](https://github.com/sobolevn/flake8-eradicate/issues/103)
 
+
+## Day 57: December 13, 2019, Friday
+
+### Today's Progress
+Travel day today. Only watched some videos on flask-login #100DayOfWeb @TalkPython @pybites
+ 
+Gonna implement the demo app tomorrow. 
+
+### Thoughts
+I know I said I wouldn't count the time spent on the videos in the course, but I will count today, because I really had no chance to catch up and I want to avoid getting my days and the course days completely out of sync. 
+
+### Link(s) to work
+1. [#100DaysOfWeb in Python](https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python)
 
 
 
