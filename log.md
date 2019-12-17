@@ -1018,9 +1018,19 @@ Extended the basic functionality a bit for nicer "user experience".
 
 Password hashing and styling are still open.
 
-
 ### Link(s) to work
 1. [Day 58 Commit -- Flask Login](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37199d2b1bf6e5d11e1027a5448e11a7bdb130e)
+
+
+## Day 59: December 15, 2019, Sunday
+
+### Today's Progress
+Added password hashing to the flask-login app with `passlib`  #100DayOfWeb @TalkPython @pybites
+
+Super easy 👏
+
+### Link(s) to work
+1. [Day 59 Commit -- Flask Login with Password Hashing](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37bcb78614420fe4f8e12b2899c4aa56dab610b)
 
 
 
