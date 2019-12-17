@@ -1033,9 +1033,14 @@ Super easy 👏
 1. [Day 59 Commit -- Flask Login with Password Hashing](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37bcb78614420fe4f8e12b2899c4aa56dab610b)
 
 
+## Day 60: December 16, 2019, Monday
 
+### Today's Progress
+Just created my first pull request (with actual code, not only documentation) to an open source project. 
+I solved a bug I found in the `flake8-eradicate` plugin, which tells you if your code contains commented out code. 
 
+Pretty exciting. 
+Waiting for the maintainer @sobolenv to respond 😊
 
-
-
-
+### Link(s) to work
+1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
