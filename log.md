@@ -1059,3 +1059,14 @@ Looking forward to using this in other proper projects.
 ### Link(s) to work
 1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
 2. [Day 61 Commit -- Using Alebic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
+
+
+## Day 62: December 18, 2019, Wednesday
+
+### Today's Progress
+No coding today. 
+Worked on shaping my new project and figured out the part that I want to work on the next two days. 
+
+After reading #shapeup by @rjs I trying to apply as much of it as makes sense for a personal project.
+
+Looking forward to start implementing.
