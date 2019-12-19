@@ -1044,3 +1044,18 @@ Waiting for the maintainer @sobolenv to respond 😊
 
 ### Link(s) to work
 1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
+
+
+## Day 61: December 17, 2019, Tuesday
+
+### Today's Progress
+My first pull request to an open source project (`flake8-eradicate`) was accepted and merged today 🎉
+
+Also, learned about `alembic` for `sqlalchemy` database migrations #100DaysOfWeb @TalkPython @PyBites 
+Setup and created some simple migrations in two apps to get the gist.
+Very nice tool. 
+Looking forward to using this in other proper projects.
+
+### Link(s) to work
+1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
+2. [Day 61 Commit -- Using Alebic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
