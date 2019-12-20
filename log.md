@@ -1070,3 +1070,16 @@ Worked on shaping my new project and figured out the part that I want to work on
 After reading #shapeup by @rjs I trying to apply as much of it as makes sense for a personal project.
 
 Looking forward to start implementing.
+
+
+## Day 63: December 19, 2019, Thursday
+
+### Today's Progress
+Started working on "Heath", my new ledger app 😁
+So far only the creation view exists.
+
+It took me bit to figure out how to properly do test driven development with Pyramid and SQLAlchemy.
+
+### Link(s) to work
+1. [Day 63 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c70c67bdd6ed241113753e9e96436eb1f1b75a10)
+
