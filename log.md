@@ -1083,3 +1083,16 @@ It took me bit to figure out how to properly do test driven development with Pyr
 ### Link(s) to work
 1. [Day 63 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c70c67bdd6ed241113753e9e96436eb1f1b75a10)
 
+
+## Day 64: December 20, 2019, Friday
+
+### Today's Progress
+Continued working on my new ledger app.
+
+Functional testing of the routes/views is still not working, but cost me basically all day... 
+
+Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
+
+### Link(s) to work
+1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
+
