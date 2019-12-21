@@ -1096,3 +1096,51 @@ Hope to find some time in the next days to finish the minimal feature set I had 
 ### Link(s) to work
 1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
 
+
+## Day 65: December 21, 2019, Saturday
+
+### Today's Progress
+Finished the simple transactions CRUD for my ledger app.
+
+### Thoughts
+Pyramid is somehow really confusing. 
+It seems like there are way too many ways to configure the whole thing of how to work in the views. 
+When should you `raise` one of their HTTP exceptions, and when should you `return` it? 
+It seems to cause different behaviour. 
+
+Even worse, why is the testing so complicated to set up? 
+Using their `DummyRequest` makes perfectly working views fail, because the `DummyRequest` does not have all the methods of a normal request. 
+
+Also, I had to completely leave the functional testing, e.g. testing of the templates etc., because I can't figure out why I is not initializing the DB... 
+
+### Link(s) to work
+1. [Day 65 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/78e73f5a60633864430a5f9bb2db2e8a5e5206af)
+
+
+
+## Day 64: December 20, 2019, Friday
+
+### Today's Progress
+Continued working on my new ledger app.
+
+Functional testing of the routes/views is still not working, but cost me basically all day... 
+
+Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
+
+### Link(s) to work
+1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
+
+
+
+## Day 64: December 20, 2019, Friday
+
+### Today's Progress
+Continued working on my new ledger app.
+
+Functional testing of the routes/views is still not working, but cost me basically all day... 
+
+Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
+
+### Link(s) to work
+1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
+
