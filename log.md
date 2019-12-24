@@ -1102,6 +1102,10 @@ Hope to find some time in the next days to finish the minimal feature set I had 
 ### Today's Progress
 Finished the simple transactions CRUD for my ledger app.
 
+Also, learned about Heroku on #100DaysOfWeb @TalkPython @Pybites
+and created and deployed a minimal "Hello World" Flask app. 
+
+
 ### Thoughts
 Pyramid is somehow really confusing. 
 It seems like there are way too many ways to configure the whole thing of how to work in the views. 
@@ -1115,32 +1119,5 @@ Also, I had to completely leave the functional testing, e.g. testing of the temp
 
 ### Link(s) to work
 1. [Day 65 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/78e73f5a60633864430a5f9bb2db2e8a5e5206af)
-
-
-
-## Day 64: December 20, 2019, Friday
-
-### Today's Progress
-Continued working on my new ledger app.
-
-Functional testing of the routes/views is still not working, but cost me basically all day... 
-
-Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
-
-### Link(s) to work
-1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
-
-
-
-## Day 64: December 20, 2019, Friday
-
-### Today's Progress
-Continued working on my new ledger app.
-
-Functional testing of the routes/views is still not working, but cost me basically all day... 
-
-Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
-
-### Link(s) to work
-1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
-
+2. [Day 65 Commit -- Heroku](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7515baa58bbc13c905ff0be8a594275ef2b31033)
+3. [Heroku Hello World App -- Live](https://tbrlpld-hello.herokuapp.com/)
