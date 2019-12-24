@@ -1122,7 +1122,7 @@ Also, I had to completely leave the functional testing, e.g. testing of the temp
 3. [Heroku Hello World App -- Live](https://tbrlpld-hello.herokuapp.com/)
 
 
-## Day 66: December 21, 2019, Saturday
+## Day 66: December 22, 2019, Saturday
 
 ### Today's Progress
 Not much Code again. 
@@ -1130,6 +1130,23 @@ Definitely no own project.
 
 Going through the Pyramid tutorial. 
 Hope to get some better understanding of it to help me with my project issues. 
+
+### Link(s)
+1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
+
+
+## Day 67: December 23, 2019, Monday
+
+### Today's Progress
+Not much time today, due to late Christmas shopping 😏
+Same thing as every year... 
+
+Did go through a few more steps on the Pyramid tutorial though. 
+Hope to get in some more tomorrow.
+
+### Thoughts
+So far, I do not think what I am learning though the tutorial will solve my testing issue (where I can not get the in-memory SQLit database to initialize when using functional tests with WebTest). 
+But, this definitely deepens my understanding of Pyramid and the different ways it can be configured.
 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
