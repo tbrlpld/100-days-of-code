@@ -1105,7 +1105,6 @@ Finished the simple transactions CRUD for my ledger app.
 Also, learned about Heroku on #100DaysOfWeb @TalkPython @Pybites
 and created and deployed a minimal "Hello World" Flask app. 
 
-
 ### Thoughts
 Pyramid is somehow really confusing. 
 It seems like there are way too many ways to configure the whole thing of how to work in the views. 
@@ -1121,3 +1120,16 @@ Also, I had to completely leave the functional testing, e.g. testing of the temp
 1. [Day 65 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/78e73f5a60633864430a5f9bb2db2e8a5e5206af)
 2. [Day 65 Commit -- Heroku](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7515baa58bbc13c905ff0be8a594275ef2b31033)
 3. [Heroku Hello World App -- Live](https://tbrlpld-hello.herokuapp.com/)
+
+
+## Day 66: December 21, 2019, Saturday
+
+### Today's Progress
+Not much Code again. 
+Definitely no own project. 
+
+Going through the Pyramid tutorial. 
+Hope to get some better understanding of it to help me with my project issues. 
+
+### Link(s)
+1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
