@@ -1150,3 +1150,21 @@ But, this definitely deepens my understanding of Pyramid and the different ways 
 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
+
+
+## Day 68: December 24, 2019, Tuesday
+
+### Today's Progress
+Continued working on the Pyramid Quick Tutorial. 
+Third day in a row, and several hours. Not sure how this is "quick". 
+
+But this definitely increases my understanding of Pyramid a lot.
+ 
+Hope it will help me with my database testing issue in the end. 
+
+### Thoughts
+Hm, I am still not done, but tomorrow is a new topic on #100DaysOfWeb. 
+Kinda want to finish this, though.
+
+### Link(s)
+1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
