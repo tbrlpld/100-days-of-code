@@ -1168,3 +1168,9 @@ Kinda want to finish this, though.
 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
+
+
+## Off-Day: December 25, 2019, Wednesday
+
+### Today's Progress
+Took the day off for christmas.
