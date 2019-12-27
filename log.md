@@ -1174,3 +1174,22 @@ Kinda want to finish this, though.
 
 ### Today's Progress
 Took the day off for christmas.
+
+
+## Day 69: December 26, 2019, Tuesday
+
+### Today's Progress
+Continued working on the Pyramid Quick Tutorial. 
+Went through the SQLAchemy section and could resolve similar issues as I have in Heath. 
+Some how this does not translate directly to how it is setup in Heath, because of the cookiecutter template that was used (the official one supplied by the Pyramid project). 
+Maybe I need to tear down the cookiecutter stuff and go more granular as in the tutorial to figure out where the issue is. 
+
+Also, learned about the Django REST framework on #100DaysOfWeb @TalkPython @PybBites
+Seems pretty simple and straight forward. 
+
+### Thoughts
+It is kind of annoying, that the cookiecutter code does not set up the functional testing correct. 
+I think it would, because this is a selection made in the template... 
+
+### Link(s)
+1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
