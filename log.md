@@ -1200,11 +1200,16 @@ I think it would, because this is a selection made in the template...
 ### Today's Progress
 Used Django REST framework to turn an existing Quotes aggregation app into an API #100DaysOfWeb @TalkPython @PybBites
 
+Wohoo 🎉 Finally figured out how to initialize the SQLAlchemy database in Pyramid functional testing! 
+Attach the db engine to the app registry was the solution 😊
 
 ### Thoughts
+This is super relieving that I finally figured that out! 
+
 
 ### Link(s)
 1. [Day 70 Commit -- Django REST](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ecaba88f98aaf2b9173ef934b4b737155f13b5b0)
+2. [Heath Commit -- Resolving the database initialization issue](https://github.com/tbrlpld/Heath/commit/dc117239cf39913295aa28efd979700de04e138b)
 
 
 
