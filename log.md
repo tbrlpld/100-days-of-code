@@ -1173,10 +1173,10 @@ Kinda want to finish this, though.
 ## Off-Day: December 25, 2019, Wednesday
 
 ### Today's Progress
-Took the day off for christmas.
+Took the day off for Christmas.
 
 
-## Day 69: December 26, 2019, Tuesday
+## Day 69: December 26, 2019, Thursday
 
 ### Today's Progress
 Continued working on the Pyramid Quick Tutorial. 
@@ -1193,3 +1193,19 @@ I think it would, because this is a selection made in the template...
 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
+
+
+## Day 70: December 27, 2019, Friday
+
+### Today's Progress
+Used Django REST framework to turn an existing Quotes aggregation app into an API #100DaysOfWeb @TalkPython @PybBites
+
+
+### Thoughts
+
+### Link(s)
+1. [Day 70 Commit -- Django REST](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ecaba88f98aaf2b9173ef934b4b737155f13b5b0)
+
+
+
+
