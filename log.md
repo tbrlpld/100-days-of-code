@@ -1212,5 +1212,16 @@ This is super relieving that I finally figured that out!
 2. [Heath Commit -- Resolving the database initialization issue](https://github.com/tbrlpld/Heath/commit/dc117239cf39913295aa28efd979700de04e138b)
 
 
+## Day 71: December 28, 2019, Saturday
 
+### Today's Progress
+Finished the last two sections Pyramid Quick Tutorial.
+Authentication - who are you.
+Authorization - what are you allowed to do. 
+
+Tomorrow, finally back to my ledger application, now that that testing issue is resolved.
+
+
+### Link(s)
+1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
 
