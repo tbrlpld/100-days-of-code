@@ -1225,3 +1225,16 @@ Tomorrow, finally back to my ledger application, now that that testing issue is 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
 
+
+## Day 72: December 28, 2019, Sunday
+
+### Today's Progress
+Updated Django REST api to hide user field in input and set automatically to currently logged in user #100DaysOfWeb @TalkPython @PyBites 
+All credit to @bbelderbos for pointing me to the solution. 
+
+Also, worked on creating some tests for my ledger app. 
+So glad this is finally working.
+
+### Link(s)
+1. [Day 72 Commit -- Django REST User Input Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/8da50b1612755fb3219b868be897060120d27ff5)
+2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
