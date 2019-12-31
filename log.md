@@ -1226,7 +1226,7 @@ Tomorrow, finally back to my ledger application, now that that testing issue is 
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
 
 
-## Day 72: December 28, 2019, Sunday
+## Day 72: December 29, 2019, Sunday
 
 ### Today's Progress
 Updated Django REST api to hide user field in input and set automatically to currently logged in user #100DaysOfWeb @TalkPython @PyBites 
@@ -1238,3 +1238,20 @@ So glad this is finally working.
 ### Link(s)
 1. [Day 72 Commit -- Django REST User Input Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/8da50b1612755fb3219b868be897060120d27ff5)
 2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+
+
+## Day 73: December 30, 2019, Monday
+
+### Today's Progress
+Learned about web scraping with beautiful soup #100DaysOfWeb @TalkPython @PyBites 
+Recreated the simple demo script to print all @TalkPython course names.
+
+Also, converted tests in my ledger app from xUnit to pytest. 
+Really enjoying that style a lot more. 
+Seems to make the code a lot more reusable.
+
+### Link(s)
+1. [Day 72 Commit -- Web Scraping with BeautifulSoup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b28e4d5b34db153c0b968c6a94069d23653c577c)
+2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+
+
