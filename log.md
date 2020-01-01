@@ -1255,3 +1255,16 @@ Seems to make the code a lot more reusable.
 2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
+## Day 74: December 31, 2019, Tuesday, New Year's Eve
+
+### Today's Progress
+Started incorporating BeautifulSoup into my functional tests for the ledger app #100DaysOfWeb @TalkPython @PyBites 
+
+Still wondering what the best way is to handle HTTP exceptions in #Pyramid @trypyramid @pylonsproject
+
+### Link(s)
+1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+
+
+
+
