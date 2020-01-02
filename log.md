@@ -1266,5 +1266,24 @@ Still wondering what the best way is to handle HTTP exceptions in #Pyramid @tryp
 1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
+## Day 75: January 1, 2020, Wednesday, New Year's Day
+
+### Today's Progress
+Learned about the Newspaper package for scraping news articles #100DaysOfWeb @TalkPython @PyBites 
+Played with the REPL a bit. Not much today really...
+
+### Thoughts
+Not quite sure what to use this for. 
+Seems to be designed really only for one use case, and right now I do not have that one. 
+I think I rather focus on the general web scraping with BeautifulSoup. 
+
+### Link(s)
+1. [Newspaper Package](https://newspaper.readthedocs.io/en/latest/)
+
+
+
+
+
+
 
 
