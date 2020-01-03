@@ -1281,6 +1281,17 @@ I think I rather focus on the general web scraping with BeautifulSoup.
 1. [Newspaper Package](https://newspaper.readthedocs.io/en/latest/)
 
 
+## Day 76: January 2, 2020, Thursday
+
+### Today's Progress
+Continued adding more functional tests to my ledger app. 
+Parsing the responses with BeautifulSoup makes the data extraction a lot easier and more concise.
+Glad I learned about this package #100DaysOfWeb @TalkPython @PyBites 
+
+
+### Link(s)
+1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+
 
 
 
