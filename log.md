@@ -1293,8 +1293,13 @@ Glad I learned about this package #100DaysOfWeb @TalkPython @PyBites
 1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
+## Day 77: January 3, 2020, Friday
 
+### Today's Progress
+Learned how to create automated tweets with Tweepy #100DaysOfWeb @TalkPython @PyBites 
+Gonna try to automate my tweets from my log tomorrow. 
 
+Also, continued adding more tests to my ledger app. 
 
-
-
+### Link(s)
+1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
