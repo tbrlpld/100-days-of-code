@@ -1313,4 +1313,4 @@ Created script to automatically create tweets based on my daily log #100DaysOfWe
 If everything worked out fine, this log entry is the first that should be tweeted automatically.
 
 ### Link(s)
-1. [Day 78 Commit -- Logtweet Script](https://log100days.lpld.io)
+1. [Day 78 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a35d71735b9bb6aa848532305e9c98c6600da3d2)
