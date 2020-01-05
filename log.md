@@ -1303,3 +1303,14 @@ Also, continued adding more tests to my ledger app.
 
 ### Link(s)
 1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+
+
+## Day 78: January 4, 2020, Saturday
+
+### Today's Progress
+Created script to automatically create tweets based on my daily log #100DaysOfWeb @TalkPython @PyBites 
+
+If everything worked out fine, this log entry is the first that should be tweeted automatically.
+
+### Link(s)
+1. [Day 78 Commit -- Logtweet Script](https://log100days.lpld.io)
