@@ -1314,3 +1314,15 @@ If everything worked out fine, this log entry is the first that should be tweete
 
 ### Link(s)
 1. [Day 78 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a35d71735b9bb6aa848532305e9c98c6600da3d2)
+
+
+## Day 79: January 5, 2020, Sunday
+
+### Today's Progress
+Learned about Slack API and how to create a slash-command #100DaysOfWeb @TalkPython @PyBites 
+
+Also, tried to make logtweet script installable. 
+Don't know how to handle the config file yet. 
+
+### Link(s)
+1. [Day 79 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
