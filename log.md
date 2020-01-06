@@ -1324,5 +1324,14 @@ Learned about Slack API and how to create a slash-command #100DaysOfWeb @TalkPyt
 Also, tried to make logtweet script installable. 
 Don't know how to handle the config file yet. 
 
+### Thoughts
+You can define additional files to be packaged with when using setuptools.
+But, where do the additional files end up? 
+Can I access them? Can the user look there? 
+
+Also, does it even make sense to expect the config file near the module? 
+The config should probably be somewhere that is easy for the user to access. 
+
+
 ### Link(s)
 1. [Day 79 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
