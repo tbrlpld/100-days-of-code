@@ -1335,3 +1335,20 @@ The config should probably be somewhere that is easy for the user to access.
 
 ### Link(s)
 1. [Day 79 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
+
+
+## Day 80: January 6, 2020, Monday
+
+### Today's Progress
+Just published "logtweet" on PyPi 🎉
+Everybody who has a their #100DaysOfCode formatted like mine can install an use it 😊
+Install with `pipx install logtweet`.
+
+ #100DaysOfWeb @TalkPython @PyBites
+
+### Thoughts
+Exciting. Although I don't think anybody but me will use it 😬 
+
+### Link(s)
+1. [LogTweet on PyPi](https://pypi.org/project/logtweet/)
+2. [LogTweet on GitHub](https://github.com/tbrlpld/logtweet)
