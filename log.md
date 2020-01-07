@@ -1341,13 +1341,13 @@ The config should probably be somewhere that is easy for the user to access.
 
 ### Today's Progress
 Just published "logtweet" on PyPi 🎉
-Everybody who has a their #100DaysOfCode formatted like mine can install an use it 😊
+Everybody who has their #100DaysOfCode log formatted like I can install and use it 😊
 Install with `pipx install logtweet`.
 
  #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
-Exciting. Although I don't think anybody but me will use it 😬 
+Exciting. Although I don't think anybody but me will use it 😬
 
 ### Link(s)
 1. [LogTweet on PyPi](https://pypi.org/project/logtweet/)
