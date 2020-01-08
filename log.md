@@ -1352,3 +1352,14 @@ Exciting. Although I don't think anybody but me will use it 😬
 ### Link(s)
 1. [LogTweet on PyPi](https://pypi.org/project/logtweet/)
 2. [LogTweet on GitHub](https://github.com/tbrlpld/logtweet)
+
+
+## Day 81: January 7, 2020, Monday
+
+### Today's Progress
+Watched some videos on unit and functional testing web applications #100DaysOfWeb @TalkPython @PyBites
+
+Didn't have time to code myself today, but will continue testing my ledger app tomorrow.
+
+### Link(s)
+1. [#100DaysOfWeb in Python](https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python)
