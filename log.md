@@ -1371,6 +1371,7 @@ Didn't have time to code myself today, but will continue testing my ledger app t
 Restructured and extended the testing (especially functional) of my ledger app #100DaysOfWeb @TalkPython @PyBites
 
 With these tests in place, I can now go into refactoring more confidently.
+
 Looking forward to that.
 
 ### Thoughts
