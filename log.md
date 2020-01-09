@@ -1354,7 +1354,7 @@ Exciting. Although I don't think anybody but me will use it 😬
 2. [LogTweet on GitHub](https://github.com/tbrlpld/logtweet)
 
 
-## Day 81: January 7, 2020, Monday
+## Day 81: January 7, 2020, Tuesday
 
 ### Today's Progress
 Watched some videos on unit and functional testing web applications #100DaysOfWeb @TalkPython @PyBites
@@ -1363,3 +1363,19 @@ Didn't have time to code myself today, but will continue testing my ledger app t
 
 ### Link(s)
 1. [#100DaysOfWeb in Python](https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python)
+
+
+## Day 82: January 8, 2020, Wednesday
+
+### Today's Progress
+Restructured and extended the testing (especially functional) of my ledger app #100DaysOfWeb @TalkPython @PyBites
+
+With these tests in place, I can now go into refactoring more confidently.
+Looking forward to that.
+
+### Thoughts
+Just saw that three people have starred my `logtweet` script on GitHub 😄 Pretty exciting.
+
+### Link(s)
+1. [Day 82 Commit -- Testing Heath](https://github.com/tbrlpld/Heath/commit/5529a790debc0c14c208ae72f76fb2cabb3b40cf)
+2. [Logtweet Stars on GitHub](https://github.com/tbrlpld/logtweet/stargazers)
