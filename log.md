@@ -1380,3 +1380,17 @@ Just saw that three people have starred my `logtweet` script on GitHub 😄 Pret
 ### Link(s)
 1. [Day 82 Commit -- Testing Heath](https://github.com/tbrlpld/Heath/commit/5529a790debc0c14c208ae72f76fb2cabb3b40cf)
 2. [Logtweet Stars on GitHub](https://github.com/tbrlpld/logtweet/stargazers)
+
+
+## Day 83: January 9, 2020, Thursday
+
+### Today's Progress
+Pew, that was a lot today #100DaysOfWeb @TalkPython @PyBites.
+
+Restructured my tests to be  easier to read.
+Then, refactored my view functions into a class.
+Definitely helps with keeping it DRY!
+
+
+### Link(s)
+1. [Day 83 Commit -- Refactoring Transaction Views in Heath](https://github.com/tbrlpld/Heath/commit/0bfa4030815336e677e1a15037a2816f6e5548cd)
