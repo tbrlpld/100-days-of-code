@@ -1399,7 +1399,7 @@ Definitely helps with keeping it DRY!
 ## Day 84: January 10, 2020, Friday
 
 ### Today's Progress
-Mainly shaping and refactoring of my ledger app. 
+Mainly shaping and refactoring of my ledger app 🤓📖💸
 
 Started implementing a feature so separate transaction by account. 
 Used #TDD through out. #100DaysOfWeb @TalkPython @PyBites.
