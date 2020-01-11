@@ -1394,3 +1394,15 @@ Definitely helps with keeping it DRY!
 
 ### Link(s)
 1. [Day 83 Commit -- Refactoring Transaction Views in Heath](https://github.com/tbrlpld/Heath/commit/0bfa4030815336e677e1a15037a2816f6e5548cd)
+
+
+## Day 84: January 10, 2020, Friday
+
+### Today's Progress
+Mainly shaping and refactoring of my ledger app. 
+
+Started implementing a feature so separate transaction by account. 
+Used #TDD through out. #100DaysOfWeb @TalkPython @PyBites.
+
+### Link(s)
+1. [Day 84 Commit -- Staring Accounts in Heath](https://github.com/tbrlpld/Heath/compare/0bfa40308153...305931195efc)
