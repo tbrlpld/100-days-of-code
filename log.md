@@ -1406,3 +1406,17 @@ Used #TDD through out. #100DaysOfWeb @TalkPython @PyBites.
 
 ### Link(s)
 1. [Day 84 Commit -- Staring Accounts in Heath](https://github.com/tbrlpld/Heath/compare/0bfa40308153...305931195efc)
+
+
+## Day 85: January 11, 2020, Saturday
+
+### Today's Progress
+Learned about AWS Lambda #100DaysOfWeb @TalkPython @PyBites.
+
+Followed along the lesson example and built a little #Flask app that checks Python code against #PEP8 through a lambda function.
+
+### Link(s)
+1. [Day 85 Commit -- PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
+
+
+
