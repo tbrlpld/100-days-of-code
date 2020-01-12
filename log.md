@@ -1415,6 +1415,16 @@ Learned about AWS Lambda #100DaysOfWeb @TalkPython @PyBites.
 
 Followed along the lesson example and built a little #Flask app that checks Python code against #PEP8 through a lambda function.
 
+I guess the code check it in a Lambda isolates against possibly malicious code. 
+
+Also read a bunch about "serverless" technology in general. 
+It seems pretty interesting not having to setup the server myself, but only worry about the app. 
+Because, the Lambda functions are not limited to simple function like I used. 
+You could potentially host an entire web apps logic on it. The database might need to be somewhere else, but the app could run as a function. 
+
+For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that process pretty simple. 
+
+
 ### Link(s)
 1. [Day 85 Commit -- PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
 
