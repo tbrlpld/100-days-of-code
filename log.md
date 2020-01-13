@@ -1434,7 +1434,7 @@ For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that proces
 ### Today's Progress
 Started working on a link shortener app hosted on AWS Lambda with Zappa and DynamoDB #100DaysOfWeb @TalkPython @PyBites.
 
-Figuring out how to use a custom domain for the gateway API ate a lot of time. 
+Setting up a custom domain for the gateway API ate a lot of time. 
 
 This is also the first time for me working with AWS DynamoDB. 
 So I needed to look into that too. 
