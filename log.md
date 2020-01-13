@@ -1429,4 +1429,24 @@ For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that proces
 1. [Day 85 Commit -- PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
 
 
+## Day 86: January 12, 2020, Sunday
 
+### Today's Progress
+Started working on a link shortener app hosted on AWS Lambda with Zappa and DynamoDB #100DaysOfWeb @TalkPython @PyBites.
+
+Figuring out how to use a custom domain for the gateway API ate a lot of time. 
+
+This is also the first time for me working with AWS DynamoDB. 
+So I needed to look into that too. 
+
+### Thoughts
+All the hosted DB options seems kind of expensive. 
+Why is that so? Seems like you can get compute time pretty easy, but if you want to store a few rows, it's gonna cost you. 
+
+Is that because of the disk spase involved? And the need to backup the databases and keep the data consistent over multiple locations? 
+
+Because without a database, most webapps are nothing. 
+
+
+### Link(s)
+1. [Day 86 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/compare/689e1e4134d4e4df1fbac2c955a97fd09384ae61..60cf279fbc555ab5f8731b97a1d269d01bad407a?diff=unified)
