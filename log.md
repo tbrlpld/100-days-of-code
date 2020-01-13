@@ -1440,12 +1440,15 @@ This is also the first time for me working with AWS DynamoDB.
 So I needed to look into that too. 
 
 ### Thoughts
-All the hosted DB options seems kind of expensive. 
+All the hosted DB options seem kind of expensive. 
 Why is that so? Seems like you can get compute time pretty easy, but if you want to store a few rows, it's gonna cost you. 
 
-Is that because of the disk spase involved? And the need to backup the databases and keep the data consistent over multiple locations? 
+Is that because of the disk space involved? And the need to backup the databases and keep the data consistent over multiple locations? 
 
-Because without a database, most webapps are nothing. 
+Well, that kind of kills the attractiveness of "serverless" options.
+It seems cheaper to just get a machine with root access and then run the DB and app your self. 
+
+[Vultr](https://www.vultr.com/products/cloud-compute/) seems pretty neat for that. You can get a machine with root access from $2.50 per month. And that is the capping price. If you use less, you are charged less...
 
 
 ### Link(s)
