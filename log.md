@@ -1453,3 +1453,16 @@ It seems cheaper to just get a machine with root access and then run the DB and 
 
 ### Link(s)
 1. [Day 86 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/compare/689e1e4134d4e4df1fbac2c955a97fd09384ae61..60cf279fbc555ab5f8731b97a1d269d01bad407a?diff=unified)
+
+
+## Day 87: January 13, 2020, Monday
+
+### Today's Progress
+Not much today.
+Continued with the link AWS URL shortener #100DaysOfWeb @TalkPython @PyBites 
+Turned the DB layer into a class.
+
+
+### Link(s)
+1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9643dae840e6c7b45aea597519564323ca293e03)
+
