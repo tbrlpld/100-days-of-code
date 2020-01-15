@@ -1470,10 +1470,10 @@ Turned the DB layer into a class.
 ## Day 88: January 14, 2020, Tuesday
 
 ### Today's Progress
-Finished my URL shortener https://s.lpld.io 😄 #100DaysOfWeb @TalkPython @PyBites 
-Flask app deploy with Zappa to AWS Lambda and backed by DynamoDB. 
+Finished my URL shortener https://s.lpld.io 😄 #100DaysOfWeb @TalkPython @PyBites
+Flask app deploy with Zappa to AWS Lambda and backed by DynamoDB.
 
-Updated logtweet to use my URL shortener by default 😬 
+Updated logtweet to use my URL shortener by default 😬
 
 Bit.ly service can still be configured if desired.
 
