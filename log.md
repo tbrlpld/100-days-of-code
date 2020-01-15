@@ -1466,3 +1466,18 @@ Turned the DB layer into a class.
 ### Link(s)
 1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9643dae840e6c7b45aea597519564323ca293e03)
 
+
+## Day 88: January 14, 2020, Tuesday
+
+### Today's Progress
+Finished my URL shortener https://s.lpld.io 😄 #100DaysOfWeb @TalkPython @PyBites 
+Flask app deploy with Zappa to AWS Lambda and backed by DynamoDB. 
+
+Updated logtweet to use my URL shortener by default 😬 Bitly can still be configured.
+
+
+### Link(s)
+1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/806eec4af04c9a9ca4f8fe1f4b7f9e0f8d4945a3
+)
+2. [Logtweet Release 0.1.2](https://pypi.org/project/logtweet/0.1.2/)
+
