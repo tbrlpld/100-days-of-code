@@ -1470,7 +1470,7 @@ Turned the DB layer into a class.
 ## Day 88: January 14, 2020, Tuesday
 
 ### Today's Progress
-Finished my URL shortener https://s.lpld.io 😄 #100DaysOfWeb @TalkPython @PyBites
+Finished my URL shortener [s.lpld.io](https://s.lpld.io) 😄 #100DaysOfWeb @TalkPython @PyBites
 Flask app deploy with Zappa to AWS Lambda and backed by DynamoDB.
 
 Updated logtweet to use my URL shortener by default 😬
@@ -1481,4 +1481,22 @@ Bit.ly service can still be configured if desired.
 1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/806eec4af04c9a9ca4f8fe1f4b7f9e0f8d4945a3
 )
 2. [Logtweet Release 0.1.2](https://pypi.org/project/logtweet/0.1.2/)
+
+
+## Day 89: January 15, 2020, Wednesday
+
+### Today's Progress
+Learned about deploying web apps on Linux #100DaysOfWeb @TalkPython @PyBites
+
+Not much code today, but I fixed my URL shortener to deal with trailing newlines in the long URLs.
+
+The trailing newline caused the first link I published on twitter to fail... How embarrassing 😓
+
+Also, read a bunch about CDN and how to get a database server up and running.
+Think this would be a great addition to the course. So far all courses and tutorials I have gone through only use SQLite.
+But setting up a separate database server that can be reached online seems like a crucial skill for a web developer to me. I think I want to  do that over the next few days.
+
+### Link(s)
+1. [Day 89 Commit -- Link Shortener Lambda Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b3ff50f7a6c9a591a0fe2544be80e4af30b9a3a0)
+
 
