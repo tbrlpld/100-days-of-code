@@ -1500,3 +1500,10 @@ But setting up a separate database server that can be reached online seems like 
 1. [Day 89 Commit -- Link Shortener Lambda Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b3ff50f7a6c9a591a0fe2544be80e4af30b9a3a0)
 
 
+## Day 90: January 16, 2020, Thursday
+
+### Today's Progress
+No code today. Only worked on getting my server configured #100DaysOfWeb @TalkPython @PyBites
+
+Definitely need to remember to install the rsa keys before disabling password login 😅
+
