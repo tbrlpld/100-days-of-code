@@ -1518,3 +1518,8 @@ Really like the pattern to have the server config files (e.g. the NGINX site con
 Same goes for the service definition that makes sure the app is automatically started with the sever. Once the repo is on the server, you just link to the config/definition file.
 
 Maybe combining this with git hooks and pushing directly to the webserver could be an awesome addition.
+
+I already deleted the Droplet where I was hosting the exmaple app.
+Tomorrow I want to start setting up the database server.
+This is going to be the first time I will have a production ready database available. :) The next thing I will need is an app that makes use of it ^^
+
