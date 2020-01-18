@@ -1507,3 +1507,14 @@ No code today. Only worked on getting my server configured #100DaysOfWeb @TalkPy
 
 Definitely need to remember to install the rsa keys before disabling password login 😅
 
+
+## Day 91: January 17, 2020, Friday
+
+### Today's Progress
+Again, not much code, but I finished setting up an NGINX server and host a Pyramid app with uWSGI #100DaysOfWeb @TalkPython @PyBites
+
+Really like the pattern to have the server config files (e.g. the NGINX site config) in the repo.
+
+Same goes for the service definition that makes sure the app is automatically started with the sever. Once the repo is on the server, you just link to the config/definition file.
+
+Maybe combining this with git hooks and pushing directly to the webserver could be an awesome addition.
