@@ -1523,3 +1523,11 @@ I already deleted the Droplet where I was hosting the exmaple app.
 Tomorrow I want to start setting up the database server.
 This is going to be the first time I will have a production ready database available. :) The next thing I will need is an app that makes use of it ^^
 
+
+## Day 92: January 18, 2020, Saturday
+
+### Today's Progress
+No "code". Wrote up my notes for an initial server setup as a possible blog post.
+
+Also, started setting up a database server for future applications ^^ #100DaysOfWeb @TalkPython @PyBites
+
