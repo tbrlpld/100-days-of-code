@@ -1531,3 +1531,13 @@ No "code". Wrote up my notes for an initial server setup as a possible blog post
 
 Also, started setting up a database server for future applications ^^ #100DaysOfWeb @TalkPython @PyBites
 
+
+## Day 93: January 19, 2020, Sunday
+
+### Today's Progress
+Learned about Vue.js and recreated today's part of the demo application #100DaysOfWeb @TalkPython @PyBites
+
+### Link(s)
+1. [Day 93 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course)
+
+
