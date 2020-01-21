@@ -1541,3 +1541,12 @@ Learned about Vue.js and recreated today's part of the demo application #100Days
 1. [Day 93 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/474bf452e15d2661bbe7eda8d6b5e8066fcd6a22)
 
 
+## Day 94: January 20, 2020, Monday
+
+### Today's Progress
+Finished the Vue.js section and implemented the movie app backed by an API #100DaysOfWeb @TalkPython @PyBites
+
+### Link(s)
+1. [Day 94 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f50bd688381aafda3f3b0f65f140a9e4a25b216a)
+
+
