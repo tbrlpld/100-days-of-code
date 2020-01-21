@@ -1538,6 +1538,6 @@ Also, started setting up a database server for future applications ^^ #100DaysOf
 Learned about Vue.js and recreated today's part of the demo application #100DaysOfWeb @TalkPython @PyBites
 
 ### Link(s)
-1. [Day 93 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course)
+1. [Day 93 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/474bf452e15d2661bbe7eda8d6b5e8066fcd6a22)
 
 
