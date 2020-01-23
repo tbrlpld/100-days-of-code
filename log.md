@@ -1550,13 +1550,23 @@ Finished the Vue.js section and implemented the movie app backed by an API #100D
 1. [Day 94 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f50bd688381aafda3f3b0f65f140a9e4a25b216a)
 
 
-
 ## Day 95: January 21, 2020, Tuesday
 
 ### Today's Progress
 Again, not much code.
 Been messing with my server setup.
 Trying to establish an ssh tunnel between app and db server #100DaysOfWeb @TalkPython @PyBites
+
+
+## Day 96: January 22, 2020, Wednesday
+
+### Today's Progress
+And once again, not much code but more server setup @PyBites
+
+App and db server are now communicating though an ssh tunnel that is established as a service. The linked article helped a lot.
+
+### Link(s)
+1. [Everything CLI -- SSH Tunneling for Fun and Profit](https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/)
 
 
 
