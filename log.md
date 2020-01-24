@@ -1570,3 +1570,27 @@ App and db server are now communicating though an ssh tunnel that is established
 
 
 
+## Day 97: January 23, 2020, Thursday
+
+### Today's Progress
+Long lesson on Docker today #100DaysOfWeb @TalkPython @PyBites
+
+That did not leave much time for me actually trying it out myself.
+But that will be my task for tomorrow.
+
+
+### Thoughts
+This was actually helpful. Seeing how two containers are running different parts of the application.
+Actually this seems like a quite modern setup. Having an API backend service running in one container and then another container that only serves the frontend.
+The frontend obviously needs the backend API to work.
+But this seems to be where a lot of the newser Stacks and the Frontend Frameworks are going with it.
+
+What I am wondering with the JavaScript Frontends: If you do not have JS enabled, do you still get any page? What is that site going to be?
+I guess this is not hitting many people, but is all this front end flexibility and interactivity actually helpful? Is it a lot better then sending rendered HTML to the users?
+
+I guess you can kind of reduce the bandwidth required because you are not sending new HTML everytime.
+On the other hand, you have to send huge applications to the users and the users does not see anything until they have the whole app.
+
+I am not sure where I stand on this. Actually, building new apps you should probably still go with API first approach. Because it does not matter if you talk to the API from a frontend framework or a server side logic. The API can be used for any of these cases.
+Also, having the API in place makes it easy to add mobile or native apps later on.
+
