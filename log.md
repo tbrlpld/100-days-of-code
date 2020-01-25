@@ -1594,3 +1594,16 @@ On the other hand, you have to send huge applications to the users and the users
 I am not sure where I stand on this. Actually, building new apps you should probably still go with API first approach. Because it does not matter if you talk to the API from a frontend framework or a server side logic. The API can be used for any of these cases.
 Also, having the API in place makes it easy to add mobile or native apps later on.
 
+
+## Day 98: January 23, 2020, Friday
+
+### Today's Progress
+Worked on setting up container for the Vue.js movie service #100DaysOfWeb @TalkPython @PyBites
+
+A lot of time went into figuring out how to run NGINX as non root inside the container.
+
+Only got to the frontend so far. Up next is setting up the backend server with the API.
+
+### Link(s)
+1. [Day 98 Commit - Docker Setup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/fdf56540375053a17bab5cfbdc09702c00424a6e)
+2. [Docker with NGINX as non root](https://dev.to/sophiabrandt/run-docker-nginx-as-non-root-user-2b6b)
