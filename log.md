@@ -1595,7 +1595,7 @@ I am not sure where I stand on this. Actually, building new apps you should prob
 Also, having the API in place makes it easy to add mobile or native apps later on.
 
 
-## Day 98: January 23, 2020, Friday
+## Day 98: January 24, 2020, Friday
 
 ### Today's Progress
 Worked on setting up container for the Vue.js movie service #100DaysOfWeb @TalkPython @PyBites
