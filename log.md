@@ -1609,7 +1609,7 @@ Only got to the frontend so far. Up next is setting up the backend server with t
 2. [Docker with NGINX as non root](https://dev.to/sophiabrandt/run-docker-nginx-as-non-root-user-2b6b)
 
 
-## Day 98: January 24, 2020, Friday
+## Day 99: January 25, 2020, Saturday
 
 ### Today's Progress
 Continued with the Docker setup for the movie service #100DaysOfWeb @TalkPython @PyBites
