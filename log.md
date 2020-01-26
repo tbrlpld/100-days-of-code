@@ -1607,3 +1607,32 @@ Only got to the frontend so far. Up next is setting up the backend server with t
 ### Link(s)
 1. [Day 98 Commit - Docker Setup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/fdf56540375053a17bab5cfbdc09702c00424a6e)
 2. [Docker with NGINX as non root](https://dev.to/sophiabrandt/run-docker-nginx-as-non-root-user-2b6b)
+
+
+## Day 98: January 24, 2020, Friday
+
+### Today's Progress
+Continued with the Docker setup for the movie service #100DaysOfWeb @TalkPython @PyBites
+
+Add the backend server and a `docker-compose.yml` file to run the servers in combination 👌
+
+### Thoughts
+I think I am finally starting to see a light in this whole Docker thing.
+I can totally see how the containerization would be helpful for setting up my own server.
+
+Right now I have one server with multiple websites and apps configured.
+Now, that I want to move that setup, I is going to be kind of a pain to setup all the same settings again.
+Even if I keep the same OS and everything, I am not sure I have documented everything. This sould mean I have to find all the crucial configs now and copy them from one server to the other.
+
+The containers would make that easier, because each app or website configuration would be contained in the image. I only need to put the images on the server and run them. That again should be much easier with `docker-compose`.
+
+**How to get the images onto the server?**
+
+Looks like you can [just use `docker save` and copy the files](https://stackoverflow.com/questions/23935141/how-to-copy-docker-images-from-one-host-to-another-without-using-a-repository) from one machine to another.
+Other options would be to just push the images to some repo (like [DockerHub](https://hub.docker.com/)) from where they can be pulled. I guess public repos are free, while you need to pay for private ones.
+
+Or you clone the repos over and build the image there. This is interesting, because you could use Git hooks to automate the stopping and starting of the service. `docker-compose` should already take care of building the image if needed and restarts the containers.
+
+
+### Link(s)
+1. [Day 99 Commit - Docker Setup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dc30babc1f7df5be4271db8d8d3110e82e3eab98?diff=unified)
