@@ -1636,3 +1636,26 @@ Or you clone the repos over and build the image there. This is interesting, beca
 
 ### Link(s)
 1. [Day 99 Commit - Docker Setup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dc30babc1f7df5be4271db8d8d3110e82e3eab98?diff=unified)
+
+
+## Day 100: January 26, 2020, Sunday
+
+### Today's Progress
+🎉 Done! #100DaysOfWeb @TalkPython @PyBites
+
+Spend the last day of the challenge working on my URL shortener.
+Added feature to prevent duplicate entries.
+
+Still have a concurrency issue.
+Could not figure out how to check existence on the DB level.
+Well, I did find an answer and it does work in the REPL but does not raise the expected exception in my context.
+No idea how that can be.
+
+The most fun part was figuring out how to mock the random function for a given number of executions!
+
+
+### Link(s)
+1. [Day 100 Commit - URL Shortener](https://github.com/tbrlpld/short/commit/439d4bf0bb4536ddf66445aa42c011caea68c461)
+
+
+
