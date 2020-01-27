@@ -1644,12 +1644,14 @@ Or you clone the repos over and build the image there. This is interesting, beca
 🎉 Done! #100DaysOfWeb @TalkPython @PyBites
 
 Spend the last day of the challenge working on my URL shortener.
-Added feature to prevent duplicate entries.
+Added function to prevent duplicate entries.
 
 Still have a concurrency issue.
-Could not figure out how to check existence on the DB level.
+Could not figure out how to check existence on the DynamoDB level.
 Well, I did find an answer and it does work in the REPL but does not raise the expected exception in my context.
 No idea how that can be.
+
+Also, the DynamoDB syntax/API and documentation is really not that easy to understand.
 
 The most fun part was figuring out how to mock the random function for a given number of executions!
 
