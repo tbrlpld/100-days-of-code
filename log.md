@@ -1666,7 +1666,7 @@ The most fun part was figuring out how to mock the random function for a given n
 Had to fix the duplication issue with my URL shortener on the DynamoDB level #100DaysOfWeb @TalkPython @PyBites
 I just couldn't leave it alone 😅 1 extra day
 
-
+Also fixed a bug in the regex in `logtweet` that failed to correctly extract day number with more than 2 digits.
 
 ### Link(s)
 1. [Day 101 Commit - URL Shortener](https://github.com/tbrlpld/short/commit/2cfe21688ea897cb7cf8774190eed6a4c800e4e7)
