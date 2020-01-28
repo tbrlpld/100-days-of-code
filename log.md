@@ -1660,4 +1660,16 @@ The most fun part was figuring out how to mock the random function for a given n
 1. [Day 100 Commit - URL Shortener](https://github.com/tbrlpld/short/commit/439d4bf0bb4536ddf66445aa42c011caea68c461)
 
 
+## Day 101: January 27, 2020, Monday
+
+### Today's Progress
+Had to fix the duplication issue with my URL shortener on the DynamoDB level #100DaysOfWeb @TalkPython @PyBites
+I just couldn't leave it alone 😅 1 extra day
+
+
+
+### Link(s)
+1. [Day 101 Commit - URL Shortener](https://github.com/tbrlpld/short/commit/2cfe21688ea897cb7cf8774190eed6a4c800e4e7)
+
+
 
