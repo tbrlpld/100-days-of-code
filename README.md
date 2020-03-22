@@ -1,6 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
 
-I've joined the #100DaysOfCode challenge
 I will code for at least one hour every day for the next 100 days.
 
 If you are not familiar with the #100DayOfCode challenge, check out the [official site of the #100DaysOfCode movement](http://100daysofcode.com/).
