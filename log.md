@@ -153,9 +153,9 @@ The API Star version used (0.5) seems outdated and the package has been massivel
 ## Day 10: October 25, 2019, Friday
 
 ### Today's Progress
-Continued learning about API Star and testing with `pytest`.
+Continued learning about API Star and testing with `pytest` #100DaysOfWeb @TalkPython @Pybites
 Extended the car API with update and delete features and added testing for all endpoints.
-#100DaysOfWeb @TalkPython @Pybites
+
 
 ### Thoughts
 I do like the simplicity of `pytest` alot!
