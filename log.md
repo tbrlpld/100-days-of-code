@@ -494,8 +494,6 @@ Good to know how to do it without any external dependencies.
 ### Today's Progress
 Practised #JS by implementing a simple calculator and a calorie counting app #100DaysOfWeb @TalkPython @PyBites
 
-<!-- ### Thoughts -->
-
 
 ### Link(s) to work
 1. [Day 28 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2f6f14a6dea7c7523e5954c6b457e94baca65452)
