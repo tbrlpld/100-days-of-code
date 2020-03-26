@@ -1,6 +1,5 @@
 # 100 Days Of Code - Log
 
-
 ## Day 1: October 16, 2019, Wednesday
 
 ### Today's Progress
@@ -12,11 +11,11 @@ I have used Flask before, but the `.flaskenv` file for the `python-dotenv` packa
 
 `markupsafe.escape()` can be used to sanitize user input on the sever side.
 
-
 ### Link(s) to work
 1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
 3. [Day 1 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/264b84806a7cf0b0268107a74ff8c9fa64ac6513)
+
 
 ## Day 2: October 17, 2019, Thursday
 
@@ -42,7 +41,6 @@ Styling of the page with MUICSS is still open.
 ### Thoughts
 In a Jinja base template, you can access a child template’s blocks not only by `{% block content %}{% endblock %}` but also via the special `self` object.
 To access the child's block use `{{ self.content() }}` in the parent/base template.
-
 
 ### Link(s) to work
 1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
@@ -258,7 +256,6 @@ You need to define an pseudo-element before it like this:
         height: 100%;
     }
 
-
 ### Thoughts
 CSS has a bunch of weird side effects that are not always very clear.
 This is where front-end frameworks really help.
@@ -294,8 +291,7 @@ Learned about how to combine Flask and Requests to display data from APIs.
 Create a page to display random Chuck Norris jokes for #100DaysOfWeb @TalkPython @Pybites using https://api.chucknorris.io/
 
 ### Thoughts
-Really like how simple it is to grap data with requests.
-
+Really like how simple it is to grab data with requests.
 
 ### Link(s) to work
 1. [Day 17 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6edd73912c5d0e2f6e73a9e967bd53d01e2f9a70)
@@ -316,7 +312,6 @@ It is kind of crazy how many endpoints for brewerydb.com exist.
 Well, I guess thats because they make this a business.
 
 Also, there is an app by them called BreweryMap, which does exactly what it says 😊🍺
-
 
 ### Link(s) to work
 1. [Day 18 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b819564bf6198e51bc9bda98eae7a11a7159b56)
@@ -406,7 +401,6 @@ Turned my `log100days` app, which renders my markdown log into HTML, from Flask 
 Because I am not caching any of the markdown in the app, this should really increase performance and scalability.
  #100DaysOfWeb @TalkPython @PyBites
 
-
 ### Thoughts
 Internet is way too bad... can't deploy the app right now...
 Damn. Developed the Quart app with a newer version of Python than I have on the server...
@@ -417,20 +411,18 @@ How to get `zlib` on Ubuntu?
 Looks like you need a bunch of packages to install Python on Ubuntu.
 [Here are some listed](https://askubuntu.com/questions/21547/what-are-the-packages-libraries-i-should-install-before-compiling-python-from-so)
 
-```
-build-essential
-libncursesw5-dev
-libreadline-gplv2-dev
-libssl-dev
-libgdbm-dev
-libc6-dev
-libsqlite3-dev
-libbz2-dev
-libffi-dev
-liblzma-dev
-tk-dev
-libdb-dev
-```
+    build-essential
+    libncursesw5-dev
+    libreadline-gplv2-dev
+    libssl-dev
+    libgdbm-dev
+    libc6-dev
+    libsqlite3-dev
+    libbz2-dev
+    libffi-dev
+    liblzma-dev
+    tk-dev
+    libdb-dev
 
 This finally worked.
 Damn this took me most the time today.
@@ -694,7 +686,6 @@ The cookiecutter starter also included Alembic, which I haven't used before.
 Three new topics at once is maybe a bit much at once.
 Maybe I should have just started with a copy of the example project...
 
-
 ### Link(s) to work
 1. [Day 39 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/4d6514b074302d058c68e2b78e7eb14c2f63cc5c)
 
@@ -703,7 +694,7 @@ Maybe I should have just started with a copy of the example project...
 
 ### Today's Progress
 😖 Kinda wastes the day with trying to figure out how to access the active pyramid config out side of a request.
-Only to find that the preconfigured way to access it is much more elegant... hope to catch up with app dev tomorrow. #100DaysOfWeb @TalkPython @PyBites
+Only to find that the pre-configured way to access it is much more elegant... hope to catch up with app dev tomorrow. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Working on a plane without internet does not really work, when you don't know yet what you are doing.
@@ -752,7 +743,6 @@ Weird that I already managed to run in some sore of bug...
 1. [Day 42 Commit -- React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
 
 
-
 ## Off-Day: November 28, 2019, Thursday
 
 First thanksgiving in the US.
@@ -769,7 +759,6 @@ React seems pretty straight forward.
 
 ### Link(s) to work
 1. [Day 43 Commit -- React Hangman Game "Free Monkey"](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2d65122102559d7fdfa4eacf9006a127ac1a0849)
-
 
 
 ## Day 44: November 30, 2019, Saturday
@@ -853,7 +842,6 @@ Maybe I should look for alternate solutions or just build this my self.
 Should not be that hard...
 I could use the same approach, and directly use the `select2.js` for the rendering.
 
-
 ### Link(s) to work
 1. [Day 48 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
 
@@ -901,7 +889,6 @@ This was probably a bit much for one day.
 Still need to make the database persistent (right now it is only in memory) and create a way to log out.
 Also, the different pages should have a simple way of figuring out is the user is already logged in.
 
-
 ### Link(s) to work
 1. [Day 51 Commit -- Twilio](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/804565dac95bf655352799a5c6a9bf84645ff0d6)
 
@@ -916,7 +903,6 @@ Super easy. Recreated the example app.
 ### Thoughts
 That is really easy.
 Can definitely get you up and running pretty quick.
-
 
 ### Link(s) to work
 1. [Day 52 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/04144cfe4ec8b335dd098306936cdf64590b718a)
@@ -963,9 +949,8 @@ Now that the the registration is working, finally finished adding the authentica
 Worked on setting up my dev environment to be able to contribute to `flake8-eradicate`.
 I found a small bug in that tool and was asked by the maintainer to implement the fix he pointed out to me.
 Still work in progress.
-Using `peotry` in combination with `pyenv` seems to cause small issues.
+Using `poetry` in combination with `pyenv` seems to cause small issues.
 Continuing tomorrow.
-
 
 ### Thoughts
 🤔
@@ -1200,7 +1185,6 @@ Attach the db engine to the app registry was the solution 😊
 ### Thoughts
 This is super relieving that I finally figured that out!
 
-
 ### Link(s)
 1. [Day 70 Commit -- Django REST](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ecaba88f98aaf2b9173ef934b4b737155f13b5b0)
 2. [Heath Commit -- Resolving the database initialization issue](https://github.com/tbrlpld/Heath/commit/dc117239cf39913295aa28efd979700de04e138b)
@@ -1214,7 +1198,6 @@ Authentication - who are you.
 Authorization - what are you allowed to do.
 
 Tomorrow, finally back to my ledger application, now that that testing issue is resolved.
-
 
 ### Link(s)
 1. [Pyramid Quick Tutorial](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html)
@@ -1326,7 +1309,6 @@ Can I access them? Can the user look there?
 Also, does it even make sense to expect the config file near the module?
 The config should probably be somewhere that is easy for the user to access.
 
-
 ### Link(s)
 1. [Day 79 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
 
@@ -1364,9 +1346,7 @@ Didn't have time to code myself today, but will continue testing my ledger app t
 ### Today's Progress
 Restructured and extended the testing (especially functional) of my ledger app #100DaysOfWeb @TalkPython @PyBites
 
-With these tests in place, I can now go into refactoring more confidently.
-
-Looking forward to that.
+With these tests in place, I can now go into refactoring more confidently. Looking forward to that.
 
 ### Thoughts
 Just saw that three people have starred my `logtweet` script on GitHub 😄 Pretty exciting.
@@ -1384,7 +1364,6 @@ Pew, that was a lot today #100DaysOfWeb @TalkPython @PyBites.
 Restructured my tests to be  easier to read.
 Then, refactored my view functions into a class.
 Definitely helps with keeping it DRY!
-
 
 ### Link(s)
 1. [Day 83 Commit -- Refactoring Transaction Views in Heath](https://github.com/tbrlpld/Heath/commit/0bfa4030815336e677e1a15037a2816f6e5548cd)
@@ -1418,7 +1397,6 @@ You could potentially host an entire web apps logic on it. The database might ne
 
 For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that process pretty simple.
 
-
 ### Link(s)
 1. [Day 85 Commit -- PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
 
@@ -1443,7 +1421,6 @@ Well, that kind of kills the attractiveness of "serverless" options.
 It seems cheaper to just get a machine with root access and then run the DB and app your self.
 
 [Vultr](https://www.vultr.com/products/cloud-compute/) seems pretty neat for that. You can get a machine with root access from $2.50 per month. And that is the capping price. If you use less, you are charged less...
-
 
 ### Link(s)
 1. [Day 86 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/compare/689e1e4134d4e4df1fbac2c955a97fd09384ae61..60cf279fbc555ab5f8731b97a1d269d01bad407a?diff=unified)
@@ -1572,7 +1549,6 @@ Long lesson on Docker today #100DaysOfWeb @TalkPython @PyBites
 That did not leave much time for me actually trying it out myself.
 But that will be my task for tomorrow.
 
-
 ### Thoughts
 This was actually helpful. Seeing how two containers are running different parts of the application.
 Actually this seems like a quite modern setup. Having an API backend service running in one container and then another container that only serves the frontend.
@@ -1664,6 +1640,3 @@ Also fixed a bug in the regex in `logtweet` that failed to correctly extract day
 
 ### Link(s)
 1. [Day 101 Commit - URL Shortener](https://github.com/tbrlpld/short/commit/2cfe21688ea897cb7cf8774190eed6a4c800e4e7)
-
-
-
