@@ -1309,8 +1309,7 @@ The config should probably be somewhere that is easy for the user to access.
 ### Today's Progress
 Just published "logtweet" on PyPi 🎉
 Everybody who has their #100DaysOfCode log formatted like I can install and use it 😊
-Install with `pipx install logtweet`.
- #100DaysOfWeb @TalkPython @PyBites
+Install with `pipx install logtweet`. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Exciting. Although I don't think anybody but me will use it 😬
