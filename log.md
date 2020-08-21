@@ -343,7 +343,7 @@ E.g. what is a Form or Nature of a Pokemon, how a certain Pokemon is the combina
 This makes it a little confusing to work with.
 
 The design of the API requires to first get the species of a color and get every species to extract every color.
-This is not very performant.
+This is requires a bunch of requests.
 
 ### Link(s)
 1. [Day 20 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c021246b19cf0dcbc7d3d3fa8b2e189963928842)
@@ -357,7 +357,7 @@ This is my first contact with asynchronous programming.
 
 ### Thoughts
 This is really complex.
-Main use case for async is to let the current thread do other work, while it is waiting for the reponse of an outside resource.
+Main use case for async is to let the current thread do other work, while it is waiting for the response of an outside resource.
 
 ### Link(s)
 1. [Day 21 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
@@ -386,8 +386,8 @@ Used learned skill on two endpoints of a predefined Flask app ✅
 I guess the place to add the async functions is anywhere where an external service is slow.
 This could be a database interaction or web request.
 
-Minor hickups due to wifi blacking out and me wondering if my web calls are bad ^^.
-Also, internet (cellular) is particularly slow today.
+Minor hiccups due to WiFi blacking out and me wondering if my web calls are bad ^^.
+Also, Internet (cellular) is particularly slow today.
 Can't wait for the cable connection.
 
 ### Link(s)
@@ -456,7 +456,7 @@ Seems like as JS is getting better, it is getting more and more similar to Pytho
 ## Day 26: November 11, 2019, Monday
 
 ### Today's Progress
-Practised JS basics with four little exercises for #100DaysOfWeb @TalkPython @PyBites
+Practiced JS basics with four little exercises for #100DaysOfWeb @TalkPython @PyBites
 
 
 ### Thoughts
@@ -483,7 +483,7 @@ Good to know how to do it without any external dependencies.
 ## Day 28: November 13, 2019, Wednesday
 
 ### Today's Progress
-Practised #JS by implementing a simple calculator and a calorie counting app #100DaysOfWeb @TalkPython @PyBites
+Practiced #JS by implementing a simple calculator and a calorie counting app #100DaysOfWeb @TalkPython @PyBites
 
 
 ### Link(s)
@@ -525,7 +525,7 @@ Hope to be more productive tomorrow.
 
 ### Today's Progress
 Continued making the @getpelican default template responsive.
-So mainly css today. #100DaysOfWeb @TalkPython @PyBites
+So mainly CSS today. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Wow, this is taking quite some time.
@@ -560,7 +560,7 @@ This does not need to be too crazy, just so that it looks fine on a small displa
 
 ### Today's Progress
 Watched video lessons on @SQLAlchemy #100DaysOfWeb @TalkPython @PyBites
-The definition of relationships and of the base class seem a little complex 😒 Hope i'll get it soon.
+The definition of relationships and of the base class seem a little complex 😒 Hope I'll get it soon.
 
 ### Thoughts
 Gonna try to get some coding done tomorrow.
@@ -622,7 +622,7 @@ Spent a bit to much time on it though.
 ### Thoughts
 Unfortunately, I had not enough time today to build the whole system I wanted.
 Too much time went into creating the UI.
-Should be a good project to continue practising the relationships though.
+Should be a good project to continue practicing the relationships though.
 
 ### Link(s)
 1. [Day 36 Commit — SQL Alchemy Inventory Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/793dcb1d5ab6029568704c09a565197b7fe5c665)
@@ -670,12 +670,12 @@ Seems more designed to teach you PyCharm then the actual topic (Pyramid in this 
 Started creating a finance ledger app with #pyramid @SQLAlchemy from scratch #100DaysOfWeb @TalkPython @PyBites
 
 So far only created the database models.
-The navigating the starter and database modelling took quite some time.
+The navigating the starter and database modeling took quite some time.
 
 Tomorrow I need to add the authentication, create the routes, views and the template for user interaction.
 
 ### Thoughts
-The cookiecutter starter also included Alembic, which I haven't used before.
+The `cookiecutter` starter also included Alembic, which I haven't used before.
 Three new topics at once is maybe a bit much at once.
 Maybe I should have just started with a copy of the example project...
 
@@ -690,7 +690,7 @@ Maybe I should have just started with a copy of the example project...
 Only to find that the pre-configured way to access it is much more elegant... hope to catch up with app dev tomorrow. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
-Working on a plane without internet does not really work, when you don't know yet what you are doing.
+Working on a plane without Internet does not really work, when you don't know yet what you are doing.
 
 But, I need to pay attention to this habit.
 Trying to force something fore hours and getting lost in these mental loops.
@@ -710,7 +710,7 @@ Also went back to my ledger app and finally added some logic.
 ### Thoughts
 React seems pretty straight forward.
 Using JSX in the editor still needs some getting used to, because of the mix of HMTL and JavaScript syntax.
-Not always sure how to set up the autocomplete options.
+Not always sure how to set up the auto-complete options.
 
 ### Link(s)
 1. [Day 41 Commit — React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
@@ -720,7 +720,7 @@ Not always sure how to set up the autocomplete options.
 ## Day 42: November 27, 2019, Wednesday
 
 ### Today's Progress
-Built a #react todo app, that is pre-populated with data from an API. #100DaysOfWeb @TalkPython @pybites
+Built a #react todo app, that is pre-populated with data from an API. #100DaysOfWeb @TalkPython @Pybites
 
 Could not figure out how to add elements to the beginning of the array.
 That only led to a repeated last element.
@@ -731,7 +731,7 @@ React seems quite nice.
 Weird that I already managed to run in some sore of bug...
 
 ### Link(s)
-1. [Day 42 Commit — React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
+1. [Day 42 Commit — React To-do List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
 
 
 ## Off-Day: November 28, 2019, Thursday
@@ -742,8 +742,8 @@ First thanksgiving in the US.
 ## Day 43: November 29, 2019, Friday
 
 ### Today's Progress
-Yesterday, skipday for thanksgiving.
-Learned some more about #React and recreated the example "Free Monkey" hangman variant #100DaysOfWeb @TalkPython @pybites
+Yesterday, off-day for thanksgiving.
+Learned some more about #React and recreated the example "Free Monkey" hangman variant #100DaysOfWeb @TalkPython @Pybites
 
 ### Thoughts
 React seems pretty straight forward.
@@ -762,13 +762,13 @@ Created tic-tac-toe game with React.js  #100DaysOfWeb @TalkPython @pybites
 Game logic works, but I can not reset the game 😖
 
 ### Thoughts
-Guess the story with the singleton is an example of the brain working with out the conciousness knowing 🤔
+Guess the story with the singleton is an example of the brain working with out the consciousness knowing 🤔
 
 Not sure what is wrong with the tic-tac-toe game...
 
 ### Link(s)
 1. [Python Singleton](https://twitter.com/tbrlpld/status/1200894629953986561/photo/1)
-2. [Day 44 Commit — ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
+2. [Day 44 Commit — React Tic Tac Toe](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
 
 
 
@@ -857,7 +857,7 @@ Trippy to see the browser just acting on its own 😊
 Learned about #responder framework by @kennethreitz on #100DaysOfWeb @TalkPython @pybites
 Recreated the simple demo API app! Very intuitive 👏
 
-Also, triggered by a tweet by @kennethreitz, checked that the average float that is generated by Pythons random generator is in fact 0.5 😊
+Also, triggered by a tweet by @kennethreitz, checked that the average float that is generated by Python's random generator is in fact 0.5 😊
 
 ### Thoughts
 Woohoo, half-time.
@@ -1028,7 +1028,7 @@ Looking forward to using this in other proper projects.
 
 ### Link(s)
 1. [`flake8-eradicate` — Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
-2. [Day 61 Commit — Using Alebic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
+2. [Day 61 Commit — Using Alembic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
 
 
 ## Day 62: December 18, 2019, Wednesday
@@ -1079,7 +1079,7 @@ and created and deployed a minimal "Hello World" Flask app.
 Pyramid is somehow really confusing.
 It seems like there are way too many ways to configure the whole thing of how to work in the views.
 When should you `raise` one of their HTTP exceptions, and when should you `return` it?
-It seems to cause different behaviour.
+It seems to cause different behavior.
 
 Even worse, why is the testing so complicated to set up?
 Using their `DummyRequest` makes perfectly working views fail, because the `DummyRequest` does not have all the methods of a normal request.
@@ -1293,7 +1293,7 @@ Also, tried to make logtweet script installable.
 Don't know how to handle the config file yet.
 
 ### Thoughts
-You can define additional files to be packaged with when using setuptools.
+You can define additional files to be packaged with when using `setuptools`.
 But, where do the additional files end up?
 Can I access them? Can the user look there?
 
@@ -1383,7 +1383,8 @@ I guess the code check it in a Lambda isolates against possibly malicious code.
 Also read a bunch about "serverless" technology in general.
 It seems pretty interesting not having to setup the server myself, but only worry about the app.
 Because, the Lambda functions are not limited to simple function like I used.
-You could potentially host an entire web apps logic on it. The database might need to be somewhere else, but the app could run as a function.
+You could potentially host an entire web apps logic on it.
+The database might need to be somewhere else, but the app could run as a function.
 
 For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that process pretty simple.
 
@@ -1466,7 +1467,7 @@ But setting up a separate database server that can be reached online seems like 
 ### Today's Progress
 No code today. Only worked on getting my server configured #100DaysOfWeb @TalkPython @PyBites
 
-Definitely need to remember to install the rsa keys before disabling password login 😅
+Definitely need to remember to install the RSA keys before disabling password login 😅
 
 
 ## Day 91: January 17, 2020, Friday
@@ -1478,11 +1479,12 @@ Really like the pattern to have the server config files (e.g. the NGINX site con
 
 Same goes for the service definition that makes sure the app is automatically started with the sever. Once the repo is on the server, you just link to the config/definition file.
 
-Maybe combining this with git hooks and pushing directly to the webserver could be an awesome addition.
+Maybe combining this with git hooks and pushing directly to the web server could be an awesome addition.
 
-I already deleted the Droplet where I was hosting the exmaple app.
+I already deleted the Droplet where I was hosting the example app.
 Tomorrow I want to start setting up the database server.
-This is going to be the first time I will have a production ready database available. :) The next thing I will need is an app that makes use of it ^^
+This is going to be the first time I will have a production ready database available.
+:) The next thing I will need is an app that makes use of it ^^
 
 
 ## Day 92: January 18, 2020, Saturday
@@ -1530,7 +1532,6 @@ App and db server are now communicating though an ssh tunnel that is established
 1. [Everything CLI — SSH Tunneling for Fun and Profit](https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/)
 
 
-
 ## Day 97: January 23, 2020, Thursday
 
 ### Today's Progress
@@ -1545,13 +1546,19 @@ Actually this seems like a quite modern setup. Having an API backend service run
 The frontend obviously needs the backend API to work.
 But this seems to be where a lot of the newser Stacks and the Frontend Frameworks are going with it.
 
-What I am wondering with the JavaScript Frontends: If you do not have JS enabled, do you still get any page? What is that site going to be?
-I guess this is not hitting many people, but is all this front end flexibility and interactivity actually helpful? Is it a lot better then sending rendered HTML to the users?
+What I am wondering with the JavaScript frontends:
+If you do not have JS enabled, do you still get any page?
+What is that site going to be?
+I guess this is not hitting many people, but is all this frontend flexibility and interactivity actually helpful?
+Is it a lot better then sending rendered HTML to the users?
 
-I guess you can kind of reduce the bandwidth required because you are not sending new HTML everytime.
+I guess you can kind of reduce the bandwidth required because you are not sending new HTML every time.
 On the other hand, you have to send huge applications to the users and the users does not see anything until they have the whole app.
 
-I am not sure where I stand on this. Actually, building new apps you should probably still go with API first approach. Because it does not matter if you talk to the API from a frontend framework or a server side logic. The API can be used for any of these cases.
+I am not sure where I stand on this.
+Actually, building new apps you should probably still go with API first approach.
+Because it does not matter if you talk to the API from a frontend framework or a server side logic.
+The API can be used for any of these cases.
 Also, having the API in place makes it easy to add mobile or native apps later on.
 
 
@@ -1560,7 +1567,7 @@ Also, having the API in place makes it easy to add mobile or native apps later o
 ### Today's Progress
 Worked on setting up container for the Vue.js movie service #100DaysOfWeb @TalkPython @PyBites
 
-A lot of time went into figuring out how to run NGINX as non root inside the container.
+A lot of time went into figuring out how to run Nginx as non root inside the container.
 
 Only got to the frontend so far. Up next is setting up the backend server with the API.
 
@@ -1582,16 +1589,21 @@ I can totally see how the containerization would be helpful for setting up my ow
 
 Right now I have one server with multiple websites and apps configured.
 Now, that I want to move that setup, I is going to be kind of a pain to setup all the same settings again.
-Even if I keep the same OS and everything, I am not sure I have documented everything. This sould mean I have to find all the crucial configs now and copy them from one server to the other.
+Even if I keep the same OS and everything, I am not sure I have documented everything.
+This should mean I have to find all the crucial configs now and copy them from one server to the other.
 
-The containers would make that easier, because each app or website configuration would be contained in the image. I only need to put the images on the server and run them. That again should be much easier with `docker-compose`.
+The containers would make that easier, because each app or website configuration would be contained in the image.
+I only need to put the images on the server and run them. That again should be much easier with `docker-compose`.
 
 **How to get the images onto the server?**
 
 Looks like you can [just use `docker save` and copy the files](https://stackoverflow.com/questions/23935141/how-to-copy-docker-images-from-one-host-to-another-without-using-a-repository) from one machine to another.
-Other options would be to just push the images to some repo (like [DockerHub](https://hub.docker.com/)) from where they can be pulled. I guess public repos are free, while you need to pay for private ones.
+Other options would be to just push the images to some repo (like [DockerHub](https://hub.docker.com/)) from where they can be pulled.
+I guess public repos are free, while you need to pay for private ones.
 
-Or you clone the repos over and build the image there. This is interesting, because you could use Git hooks to automate the stopping and starting of the service. `docker-compose` should already take care of building the image if needed and restarts the containers.
+Or you clone the repos over and build the image there.
+This is interesting, because you could use Git hooks to automate the stopping and starting of the service.
+`docker-compose` should already take care of building the image if needed and restarts the containers.
 
 
 ### Link(s)
