@@ -398,8 +398,7 @@ Can't wait for the cable connection.
 
 ### Today's Progress
 Turned my `log100days` app, which renders my markdown log into HTML, from Flask to an async Quart app.
-Because I am not caching any of the markdown in the app, this should really increase performance and scalability.
- #100DaysOfWeb @TalkPython @PyBites
+Because I am not caching any of the markdown in the app, this should really increase performance and scalability. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Internet is way too bad... can't deploy the app right now...
@@ -511,8 +510,7 @@ Now I got one through this source 😅
 ## Day 30: November 15, 2019, Friday
 
 ### Today's Progress
-Started contributing to @getpelican to make the default template responsive.
- #100DaysOfWeb @TalkPython @PyBites
+Started contributing to @getpelican to make the default template responsive. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Most of my time when in to get my setup running though 😅
@@ -527,8 +525,7 @@ Hope to be more productive tomorrow.
 
 ### Today's Progress
 Continued making the @getpelican default template responsive.
-So mainly css today.
- #100DaysOfWeb @TalkPython @PyBites
+So mainly css today. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Wow, this is taking quite some time.
@@ -545,7 +542,6 @@ Planned to write my first blog article out of the notes I have about setting my 
 But, I got caught up on adding the "Attila" theme to it 😅
 
 Now I have two post idea to write out 😬
-
  #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
@@ -581,8 +577,7 @@ Gave up on the responsive pelican default theme, because [somebody else is alrea
 
 ### Today's Progress
 Played around with @SQLAlchemy relationships.
-I see a lot more clear than yesterday 🤩
- #100DaysOfWeb @TalkPython @PyBites
+I see a lot more clear than yesterday 🤩 #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 This lesson was not very good.
@@ -600,8 +595,7 @@ Hope I can build something over the next two days to get some more hands on expe
 ## Day 35: November 20, 2019, Wednesday
 
 ### Today's Progress
-Started building an inventory and production line management system to practice @SQLAlchemy.
- #100DaysOfWeb @TalkPython @PyBites
+Started building an inventory and production line management system to practice @SQLAlchemy. #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
 Practice definitely helps.
@@ -623,7 +617,6 @@ Maybe have to look into that a bit more tomorrow.
 Continued creating an inventory management system to practice @SQLAlchemy.
 Created CLI to create, update and query data.
 Spent a bit to much time on it though.
-
  #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
@@ -710,8 +703,7 @@ I could have just gone with the way it was set up and tried to find another way 
 ## Day 41: November 26, 2019, Tuesday
 
 ### Today's Progress
-Learned about #react and build an app with it to show Python tips from @pybites website
- #100DaysOfWeb @TalkPython
+Learned about #react and build an app with it to show Python tips from @pybites website #100DaysOfWeb @TalkPython
 
 Also went back to my ledger app and finally added some logic.
 
@@ -728,8 +720,7 @@ Not always sure how to set up the autocomplete options.
 ## Day 42: November 27, 2019, Wednesday
 
 ### Today's Progress
-Built a #react todo app, that is pre-populated with data from an API.
- #100DaysOfWeb @TalkPython @pybites
+Built a #react todo app, that is pre-populated with data from an API. #100DaysOfWeb @TalkPython @pybites
 
 Could not figure out how to add elements to the beginning of the array.
 That only led to a repeated last element.
@@ -1319,7 +1310,6 @@ The config should probably be somewhere that is easy for the user to access.
 Just published "logtweet" on PyPi 🎉
 Everybody who has their #100DaysOfCode log formatted like I can install and use it 😊
 Install with `pipx install logtweet`.
-
  #100DaysOfWeb @TalkPython @PyBites
 
 ### Thoughts
