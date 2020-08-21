@@ -12,8 +12,8 @@ I have used Flask before, but the `.flaskenv` file for the `python-dotenv` packa
 `markupsafe.escape()` can be used to sanitize user input on the sever side.
 
 ### Link(s)
-1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
-2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
+1. [#100DayOfWeb in Python — Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+2. [Flask tutorial — Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
 3. [Day 1 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/264b84806a7cf0b0268107a74ff8c9fa64ac6513)
 
 
@@ -27,7 +27,7 @@ Added templates, base template, and some MUICSS for styling and page consistency
 Using `.html.j2` as the file extension for the Jinja2 templates makes SublimeText show them with correct syntax highlighting.
 
 ### Link(s)
-1. [#100DayOfWeb in Python -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+1. [#100DayOfWeb in Python — Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Day 2 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6be58f42cae9dad32b9fb1f41709efed0c6f625f)
 
 
@@ -43,7 +43,7 @@ In a Jinja base template, you can access a child template’s blocks not only by
 To access the child's block use `{{ self.content() }}` in the parent/base template.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+1. [#100DayOfWebInPython — Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Day 3 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6733101af90e50f34d8aa8e5cdff736b92af44c0)
 
 
@@ -62,7 +62,7 @@ Couldn't figure out how to do it via unix sockets as it was suggested on [Digita
 So now I am running the Gunicorn server and proxying to it from Nginx.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
+1. [#100DayOfWebInPython — Intro to Flask](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/001-004-flask-intro)
 2. [Day 4 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a05bb14a112ed98d10be758b3c5a8bca4dc17635)
 3. [Live Version of 100 Day Journal](https://log100days.lpld.io/)
 
@@ -83,8 +83,8 @@ RSS seems pretty simple. Just an `.xml` file that is regularly polled by an inte
 But, is anybody still using RSS (as a user)?
 
 ### Link(s)
-1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
-2. [Flask tutorial -- Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
+1. [#100DayOfWebInPython — HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+2. [Flask tutorial — Keep Developing](https://flask.palletsprojects.com/en/1.1.x/tutorial/next/)
 3. [Day 5 Commit (to Flask tutorial)](https://github.com/tbrlpld/flask-tutorial/commit/703d5e2f67f62c3a23884d1b5adb3226e9381b6d)
 
 
@@ -98,7 +98,7 @@ Client side form input validation is pretty helpful, because it is immediate.
 It doesn't replace server side validation, but it is helpful in it's responsiveness to the user.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+1. [#100DayOfWebInPython — HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
 2. [Day 6 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/52fec0b1b494fdc778887c0945ac4e9b550d7079)
 
 
@@ -111,7 +111,7 @@ Made the recreated 1998 Google landing page responsive 😊
 Images create a strange space below it. No padding or margin set. This can be removed when setting `display` to `block`.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+1. [#100DayOfWebInPython — HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
 2. [Day 7 Commit](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c52e66090af552e959d524fee3eed996ad4acb98)
 
 
@@ -130,8 +130,8 @@ Working on a linter (`wemake-python-styleguide`), that uses several linters and 
 
 ### Link(s)
 1. [wemake-python-styleguide Pull Request](https://github.com/wemake-services/wemake-python-styleguide/pull/936)
-2. [#100DayOfWebInPython -- HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
-3. [Day 8 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d0bcbe74b108180b8c242c21eb81a4e5b70eea2)
+2. [#100DayOfWebInPython — HTML & HTML 5](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/005-008-html5)
+3. [Day 8 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d0bcbe74b108180b8c242c21eb81a4e5b70eea2)
 
 
 ## Day 9: October 24, 2019, Thursday
@@ -144,8 +144,8 @@ Implemented a cars API with read all, read one and create new car endpoints.
 The API Star version used (0.5) seems outdated and the package has been massively remodeled in its following release (0.6).
 
 ### Link(s)
-1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
-2. [Day 9 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dd1d42b11b71e7ce716946b8180ca31174c0e9a9)
+1. [#100DayOfWebInPython — API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 9 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/dd1d42b11b71e7ce716946b8180ca31174c0e9a9)
 
 
 ## Day 10: October 25, 2019, Friday
@@ -162,8 +162,8 @@ Better than the class definition used by `unittest`.
 No idea what kind of API to build in the next two days so far.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
-2. [Day 10 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5012fd29a38cb7d0963013b5c3e5aa43ab797b21)
+1. [#100DayOfWebInPython — API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 10 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5012fd29a38cb7d0963013b5c3e5aa43ab797b21)
 
 
 ## Day 11: October 26, 2019, Saturday
@@ -178,8 +178,8 @@ The change in API Star resulted in them overhauling the documentation.
 Could not find the documentation for 0.5 anymore, which is a bit annoying.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
-2. [Day 11 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f4f615ba52e7da80f945cf1526c3dd9388913d73)
+1. [#100DayOfWebInPython — API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 11 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f4f615ba52e7da80f945cf1526c3dd9388913d73)
 
 
 ## Day 12: October 27, 2019, Sunday
@@ -196,8 +196,8 @@ Does it make sense to create a bunch of CRUD endpoints that are only used intern
 Today was also a travel day. Worked on the programming quite late, so I could not really give it my best.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
-2. [Day 12 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/03adf2b642c961e64b77f25786c87805fb9eb0c6)
+1. [#100DayOfWebInPython — API Star](https://github.com/talkpython/100daysofweb-with-python-course/tree/master/days/009-012-modern-apis-starred)
+2. [Day 12 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/03adf2b642c961e64b77f25786c87805fb9eb0c6)
 
 
 ## Day 13: October 28, 2019, Monday
@@ -214,7 +214,7 @@ No code created today. Mainly occupied with reading code.
 Does not feel good, but I guess it is understandable that it takes some time trying to get back into an old project that I have not touched for months.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+1. [#100DayOfWebInPython — CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
 
 
 ## Day 14: October 29, 2019, Tuesday
@@ -238,7 +238,7 @@ This really sucks now.
 Guess this is why I abandoned that project before...
 
 ### Link(s)
-1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+1. [#100DayOfWebInPython — CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
 
 
 ## Day 15: October 30, 2019, Wednesday
@@ -261,8 +261,8 @@ CSS has a bunch of weird side effects that are not always very clear.
 This is where front-end frameworks really help.
 
 ### Link(s)
-1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
-2. [Day 15 Commit -- #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/57dc34280b6a02c210fef6819737837b97c30461)
+1. [#100DayOfWebInPython — CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+2. [Day 15 Commit — #100DaysOfWeb](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/57dc34280b6a02c210fef6819737837b97c30461)
 
 
 ## Day 16: October 31, 2019, Thursday
@@ -280,8 +280,8 @@ That is awesome.
 
 
 ### Link(s)
-1. [#100DayOfWebInPython -- CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
-2. [Day 16 Commit -- "Change" Kata](https://github.com/tbrlpld/kata/commit/29aefb720d3b18ec406c48dcfd88e09982713282)
+1. [#100DayOfWebInPython — CSS Basics](https://github.com/tbrlpld/100daysofweb-with-python-course/tree/master/days/013-016-css-basics)
+2. [Day 16 Commit — "Change" Kata](https://github.com/tbrlpld/kata/commit/29aefb720d3b18ec406c48dcfd88e09982713282)
 
 
 ## Day 17: November 1, 2019, Friday
@@ -294,7 +294,7 @@ Create a page to display random Chuck Norris jokes for #100DaysOfWeb @TalkPython
 Really like how simple it is to grab data with requests.
 
 ### Link(s)
-1. [Day 17 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6edd73912c5d0e2f6e73a9e967bd53d01e2f9a70)
+1. [Day 17 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/6edd73912c5d0e2f6e73a9e967bd53d01e2f9a70)
 
 
 ## Off-Day: November 2, 2019, Saturday
@@ -314,7 +314,7 @@ Well, I guess thats because they make this a business.
 Also, there is an app by them called BreweryMap, which does exactly what it says 😊🍺
 
 ### Link(s)
-1. [Day 18 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b819564bf6198e51bc9bda98eae7a11a7159b56)
+1. [Day 18 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b819564bf6198e51bc9bda98eae7a11a7159b56)
 
 
 ## Day 19: November 4, 2019, Monday
@@ -328,7 +328,7 @@ This was fairly simple. I really like how straight forward Flask is.
 Also, project idea: APIAPI ^^
 
 ### Link(s)
-1. [Day 19 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/bdb517723d85735db330adffb980dd273d8b0740)
+1. [Day 19 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/bdb517723d85735db330adffb980dd273d8b0740)
 
 
 ## Day 20: November 5, 2019, Tuesday
@@ -346,7 +346,7 @@ The design of the API requires to first get the species of a color and get every
 This is not very performant.
 
 ### Link(s)
-1. [Day 20 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c021246b19cf0dcbc7d3d3fa8b2e189963928842)
+1. [Day 20 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c021246b19cf0dcbc7d3d3fa8b2e189963928842)
 
 
 ## Day 21: November 6, 2019, Wednesday
@@ -360,7 +360,7 @@ This is really complex.
 Main use case for async is to let the current thread do other work, while it is waiting for the reponse of an outside resource.
 
 ### Link(s)
-1. [Day 21 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
+1. [Day 21 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/e6a8581656a2161a78a87ba39c987fcf2cd44b66)
 
 
 ## Day 22: November 7, 2019, Thursday
@@ -373,7 +373,7 @@ Turned an existing synchronous web scraping script into an async one #100DaysOfW
 It is still tricky to find out where to add the asynchronous functions.
 
 ### Link(s)
-1. [Day 22 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b7a611899898876335af7dbe5560fd126468548a)
+1. [Day 22 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b7a611899898876335af7dbe5560fd126468548a)
 
 
 ## Day 23: November 8, 2019, Friday
@@ -391,7 +391,7 @@ Also, internet (cellular) is particularly slow today.
 Can't wait for the cable connection.
 
 ### Link(s)
-1. [Day 23 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/505d3e156089440d36955a75f5282462983bee9e)
+1. [Day 23 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/505d3e156089440d36955a75f5282462983bee9e)
 
 
 ## Day 24: November 9, 2019, Saturday
@@ -431,7 +431,7 @@ Ok, the slow connection to my server also did not make it any faster.
 **But** this points out why development environment and deployment environment should always be as similar as possible‼️
 
 ### Link(s)
-1. [Day 24 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d1f4557f278e2d10a2f5e7c76e4d59020928c972)
+1. [Day 24 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d1f4557f278e2d10a2f5e7c76e4d59020928c972)
 
 
 ## Day 25: November 10, 2019, Sunday
@@ -450,8 +450,8 @@ Really need to get used to this.
 Seems like as JS is getting better, it is getting more and more similar to Python 🙃
 
 ### Link(s)
-1. [Day 25 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d9cf4682e0c3f6a6fda79fcc802245aafd123644)
-2. [Inheritance in JavaScript -- MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+1. [Day 25 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d9cf4682e0c3f6a6fda79fcc802245aafd123644)
+2. [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
 
 
 ## Day 26: November 11, 2019, Monday
@@ -464,7 +464,7 @@ Practised JS basics with four little exercises for #100DaysOfWeb @TalkPython @Py
 The basics of JS seem quite simple and similar to Python.
 
 ### Link(s)
-1. [Day 26 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f18961caa478ebc572e2e2f5c8a92a6bf3ecc57d)
+1. [Day 26 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f18961caa478ebc572e2e2f5c8a92a6bf3ecc57d)
 
 
 ## Day 27: November 12, 2019, Tuesday
@@ -478,7 +478,7 @@ Good to know how to do it without any external dependencies.
 
 
 ### Link(s)
-1. [Day 27 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/aa553e8c42fe55535b279708bf814e00004134c9)
+1. [Day 27 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/aa553e8c42fe55535b279708bf814e00004134c9)
 
 
 ## Day 28: November 13, 2019, Wednesday
@@ -488,7 +488,7 @@ Practised #JS by implementing a simple calculator and a calorie counting app #10
 
 
 ### Link(s)
-1. [Day 28 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2f6f14a6dea7c7523e5954c6b457e94baca65452)
+1. [Day 28 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2f6f14a6dea7c7523e5954c6b457e94baca65452)
 
 
 ## Day 29: November 14, 2019, Thursday
@@ -505,7 +505,7 @@ I wanted to create a blog for myself anyhow.
 Now I got one through this source 😅
 
 ### Link(s)
-1. [Day 29 Commit -- #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/80e795481ecaa6e8a3e606f1c9b2f79e72b5eb04)
+1. [Day 29 Commit — #100DaysOfWeb In Python](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/80e795481ecaa6e8a3e606f1c9b2f79e72b5eb04)
 
 
 ## Day 30: November 15, 2019, Friday
@@ -519,8 +519,8 @@ Most of my time when in to get my setup running though 😅
 Hope to be more productive tomorrow.
 
 ### Link(s)
-1. [Day 30 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
-2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
+1. [Day 30 — Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
+2. [Pelican Issue — Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
 
 
 ## Day 31: November 16, 2019, Saturday
@@ -534,8 +534,8 @@ So mainly css today.
 Wow, this is taking quite some time.
 
 ### Link(s)
-1. [Day 31 -- Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
-2. [Pelican Issue -- Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
+1. [Day 31 — Pelican Contribution Branch](https://github.com/tbrlpld/pelican/tree/add-mcss-grid)
+2. [Pelican Issue — Responsive Base Template](https://github.com/getpelican/pelican/issues/1704)
 
 
 ## Day 32: November 17, 2019, Sunday
@@ -556,7 +556,7 @@ Also, should continue with making the default template responsive.
 This does not need to be too crazy, just so that it looks fine on a small display.
 
 ### Link(s)
-1. [Day 31 Commit -- Adding Blog Theme](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/032a357722ca3bfe8a70d60a6d306a8496579f67)
+1. [Day 31 Commit — Adding Blog Theme](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/032a357722ca3bfe8a70d60a6d306a8496579f67)
 2. [Attila Theme for Pelican](https://github.com/arulrajnet/attila)
 
 
@@ -594,7 +594,7 @@ Also in the lesson videos, the whole jumping around between the different views 
 Hope I can build something over the next two days to get some more hands on experience with SQLAlchemy.
 
 ### Link(s)
-1. [Day 34 Commit -- SQL Alchemy Relationship Practice](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
+1. [Day 34 Commit — SQL Alchemy Relationship Practice](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/777791a6f1c61bfc565e612a648aa436b425df68)
 
 
 ## Day 35: November 20, 2019, Wednesday
@@ -613,8 +613,8 @@ Seems like it should be an application for a singleton.
 Maybe have to look into that a bit more tomorrow.
 
 ### Link(s)
-1. [Day 35 Commit -- SQL Alchemy Production Line Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d3d3918793e2df4c203aa1c6bc9454eb81fe4bb6)
-2. [Singleton in Python -- StackOverflow Thread](https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python)
+1. [Day 35 Commit — SQL Alchemy Production Line Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d3d3918793e2df4c203aa1c6bc9454eb81fe4bb6)
+2. [Singleton in Python — StackOverflow Thread](https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python)
 
 
 ## Day 36: November 21, 2019, Thursday
@@ -632,7 +632,7 @@ Too much time went into creating the UI.
 Should be a good project to continue practising the relationships though.
 
 ### Link(s)
-1. [Day 36 Commit -- SQL Alchemy Inventory Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/793dcb1d5ab6029568704c09a565197b7fe5c665)
+1. [Day 36 Commit — SQL Alchemy Inventory Management](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/793dcb1d5ab6029568704c09a565197b7fe5c665)
 
 
 ## Day 37: November 22, 2019, Friday
@@ -650,7 +650,7 @@ So far it has been mainly the app setup.
 Have not really worked with much of the Pyramid functionality.
 
 ### Link(s)
-1. [Day 37 Commit -- Setup Pyramid Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/365d86dd4e514c1a2774cc3119d7586f201f5f02)
+1. [Day 37 Commit — Setup Pyramid Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/365d86dd4e514c1a2774cc3119d7586f201f5f02)
 
 
 ## Day 38: November 23, 2019, Saturday
@@ -667,7 +667,7 @@ The apps of choice seem too large sometimes and the automatic imports and so on 
 Seems more designed to teach you PyCharm then the actual topic (Pyramid in this case).
 
 ### Link(s)
-1. [Day 38 Commit -- Pyramid Exmaple Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
+1. [Day 38 Commit — Pyramid Exmaple Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/1dcda4ad1bddfc15b64b96bff44c12cbafed6c75)
 2. [Pyramid Authentication](https://docs.pylonsproject.org/projects/pyramid/en/1.10-branch/tutorials/wiki2/authentication.html)
 
 
@@ -687,7 +687,7 @@ Three new topics at once is maybe a bit much at once.
 Maybe I should have just started with a copy of the example project...
 
 ### Link(s)
-1. [Day 39 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/4d6514b074302d058c68e2b78e7eb14c2f63cc5c)
+1. [Day 39 Commit — Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/4d6514b074302d058c68e2b78e7eb14c2f63cc5c)
 
 
 ## Day 40: November 25, 2019, Monday
@@ -704,7 +704,7 @@ Trying to force something fore hours and getting lost in these mental loops.
 I could have just gone with the way it was set up and tried to find another way once I had the ability to actually look up stuff I do not know yet.
 
 ### Link(s)
-1. [Day 40 Commit -- Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b78bc81ca61490cbbccb9c9a9bed9423b6deee8a)
+1. [Day 40 Commit — Ledger Project](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b78bc81ca61490cbbccb9c9a9bed9423b6deee8a)
 
 
 ## Day 41: November 26, 2019, Tuesday
@@ -721,8 +721,8 @@ Using JSX in the editor still needs some getting used to, because of the mix of 
 Not always sure how to set up the autocomplete options.
 
 ### Link(s)
-1. [Day 41 Commit -- React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
-1. [Day 41 Commit -- Ledger App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/32bab4c2e100fc7b179a88efbca45e0ad4d28fec)
+1. [Day 41 Commit — React](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7ef7e9c0e2fec8a8c6a64794ca0e1d16fed80279)
+1. [Day 41 Commit — Ledger App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/32bab4c2e100fc7b179a88efbca45e0ad4d28fec)
 
 
 ## Day 42: November 27, 2019, Wednesday
@@ -740,7 +740,7 @@ React seems quite nice.
 Weird that I already managed to run in some sore of bug...
 
 ### Link(s)
-1. [Day 42 Commit -- React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
+1. [Day 42 Commit — React Todo List](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9fab7978723944123b7d183c2ac04f078728089d)
 
 
 ## Off-Day: November 28, 2019, Thursday
@@ -758,7 +758,7 @@ Learned some more about #React and recreated the example "Free Monkey" hangman v
 React seems pretty straight forward.
 
 ### Link(s)
-1. [Day 43 Commit -- React Hangman Game "Free Monkey"](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2d65122102559d7fdfa4eacf9006a127ac1a0849)
+1. [Day 43 Commit — React Hangman Game "Free Monkey"](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/2d65122102559d7fdfa4eacf9006a127ac1a0849)
 
 
 ## Day 44: November 30, 2019, Saturday
@@ -777,7 +777,7 @@ Not sure what is wrong with the tic-tac-toe game...
 
 ### Link(s)
 1. [Python Singleton](https://twitter.com/tbrlpld/status/1200894629953986561/photo/1)
-2. [Day 44 Commit -- ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
+2. [Day 44 Commit — ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/768b6b4d4a2198dbff209e7627c5d56f684ad83c)
 
 
 
@@ -794,7 +794,7 @@ The reset button works now.
 
 
 ### Link(s)
-1. [Day 45 Commit -- React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
+1. [Day 45 Commit — React Tic Tac Toe ](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/12cc7d756fadbeed3d7c9a198e2eeefc50509c2e)
 
 
 ## Day 46: December 2, 2019, Monday
@@ -807,7 +807,7 @@ Replayed the video steps to create a basic Django app layout today.
 I really do not like that Django does not validate anything when saving the models 🤨
 
 ### Link(s)
-1. [Day 46 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
+1. [Day 46 Commit — Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/5b833bb81e5c25e93278ee915ee430fae9bfa5c5)
 
 
 ## Day 47: December 3, 2019, Tuesday
@@ -820,7 +820,7 @@ Tomorrow: turning the views into class based views.
 
 
 ### Link(s)
-1. [Day 47 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cafea254157d5009b10ef0972a0722d6690c1d5b)
+1. [Day 47 Commit — Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cafea254157d5009b10ef0972a0722d6690c1d5b)
 
 
 ## Day 48: December 4, 2019, Wednesday
@@ -843,7 +843,7 @@ Should not be that hard...
 I could use the same approach, and directly use the `select2.js` for the rendering.
 
 ### Link(s)
-1. [Day 48 Commit -- Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
+1. [Day 48 Commit — Django Quotes App](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
 
 
 ## Day 49: December 5, 2019, Thursday
@@ -857,7 +857,7 @@ Reproduced the steps in the videos to create testing for an [existing website](h
 Trippy to see the browser just acting on its own 😊
 
 ### Link(s)
-1. [Day 49 Commit -- Selenium](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
+1. [Day 49 Commit — Selenium](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7d717acbcf3faad4dbe7d5cdd1b24ae8c367dca3)
 
 
 ## Day 50: December 6, 2019, Friday
@@ -872,7 +872,7 @@ Also, triggered by a tweet by @kennethreitz, checked that the average float that
 Woohoo, half-time.
 
 ### Link(s)
-1. [Day 50 Commit -- Responder](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c6c47726d9f4f09a3ee288d7b0d3cd77b5748672)
+1. [Day 50 Commit — Responder](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c6c47726d9f4f09a3ee288d7b0d3cd77b5748672)
 2. [Kenneth Rietz's Tweet](https://twitter.com/kennethreitz/status/1202979569667641344)
 
 
@@ -890,7 +890,7 @@ Still need to make the database persistent (right now it is only in memory) and 
 Also, the different pages should have a simple way of figuring out is the user is already logged in.
 
 ### Link(s)
-1. [Day 51 Commit -- Twilio](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/804565dac95bf655352799a5c6a9bf84645ff0d6)
+1. [Day 51 Commit — Twilio](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/804565dac95bf655352799a5c6a9bf84645ff0d6)
 
 
 ## Day 52: December 8, 2019, Sunday
@@ -919,7 +919,7 @@ What's going on here?
 
 
 ### Link(s)
-1. [Day 53 Commit -- Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/118edb94e3e6f30b3ba2d25b5ee82e24d9ca9222)
+1. [Day 53 Commit — Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/118edb94e3e6f30b3ba2d25b5ee82e24d9ca9222)
 
 
 ## Day 54: December 10, 2019, Tuesday
@@ -938,7 +938,7 @@ This cause my first issue with not being able to register accounts...
 During that process I created the other issue... which of course is my fault.
 
 ### Link(s)
-1. [Day 54 Commit -- Django Registration Debug](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ac96f23a6a4425bebd9f5876db5ad7f2a5f5b05c)
+1. [Day 54 Commit — Django Registration Debug](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ac96f23a6a4425bebd9f5876db5ad7f2a5f5b05c)
 
 
 ## Day 55: December 11, 2019, Wednesday
@@ -956,7 +956,7 @@ Continuing tomorrow.
 🤔
 
 ### Link(s)
-1. [Day 54 Commit -- Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/571d64183219edb96d36f6ccc60b54734189d4b6)
+1. [Day 54 Commit — Django Registration](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/571d64183219edb96d36f6ccc60b54734189d4b6)
 2. [`flake8-eradicate` Bug Report](https://github.com/sobolevn/flake8-eradicate/issues/103)
 
 
@@ -998,7 +998,7 @@ Extended the basic functionality a bit for nicer "user experience".
 Password hashing and styling are still open.
 
 ### Link(s)
-1. [Day 58 Commit -- Flask Login](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37199d2b1bf6e5d11e1027a5448e11a7bdb130e)
+1. [Day 58 Commit — Flask Login](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37199d2b1bf6e5d11e1027a5448e11a7bdb130e)
 
 
 ## Day 59: December 15, 2019, Sunday
@@ -1009,7 +1009,7 @@ Added password hashing to the flask-login app with `passlib`  #100DayOfWeb @Talk
 Super easy 👏
 
 ### Link(s)
-1. [Day 59 Commit -- Flask Login with Password Hashing](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37bcb78614420fe4f8e12b2899c4aa56dab610b)
+1. [Day 59 Commit — Flask Login with Password Hashing](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/d37bcb78614420fe4f8e12b2899c4aa56dab610b)
 
 
 ## Day 60: December 16, 2019, Monday
@@ -1022,7 +1022,7 @@ Pretty exciting.
 Waiting for the maintainer @sobolenv to respond 😊
 
 ### Link(s)
-1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
+1. [`flake8-eradicate` — Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
 
 
 ## Day 61: December 17, 2019, Tuesday
@@ -1036,8 +1036,8 @@ Very nice tool.
 Looking forward to using this in other proper projects.
 
 ### Link(s)
-1. [`flake8-eradicate` -- Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
-2. [Day 61 Commit -- Using Alebic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
+1. [`flake8-eradicate` — Pull Request](https://github.com/sobolevn/flake8-eradicate/pull/106)
+2. [Day 61 Commit — Using Alebic Migrations](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/cc31bccff8fc744ae7189eb6bc992fed7bdf83de)
 
 
 ## Day 62: December 18, 2019, Wednesday
@@ -1060,7 +1060,7 @@ So far only the creation view exists.
 It took me bit to figure out how to properly do test driven development with Pyramid and SQLAlchemy.
 
 ### Link(s)
-1. [Day 63 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c70c67bdd6ed241113753e9e96436eb1f1b75a10)
+1. [Day 63 Commit — Ledger App](https://github.com/tbrlpld/Heath/commit/c70c67bdd6ed241113753e9e96436eb1f1b75a10)
 
 
 ## Day 64: December 20, 2019, Friday
@@ -1073,7 +1073,7 @@ Functional testing of the routes/views is still not working, but cost me basical
 Hope to find some time in the next days to finish the minimal feature set I had planned for the last two days.
 
 ### Link(s)
-1. [Day 64 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
+1. [Day 64 Commit — Ledger App](https://github.com/tbrlpld/Heath/commit/c0c5c972e1088e3006da11e7b18922d310f2cc1f)
 
 
 ## Day 65: December 21, 2019, Saturday
@@ -1096,9 +1096,9 @@ Using their `DummyRequest` makes perfectly working views fail, because the `Dumm
 Also, I had to completely leave the functional testing, e.g. testing of the templates etc., because I can't figure out why I is not initializing the DB...
 
 ### Link(s)
-1. [Day 65 Commit -- Ledger App](https://github.com/tbrlpld/Heath/commit/78e73f5a60633864430a5f9bb2db2e8a5e5206af)
-2. [Day 65 Commit -- Heroku](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7515baa58bbc13c905ff0be8a594275ef2b31033)
-3. [Heroku Hello World App -- Live](https://tbrlpld-hello.herokuapp.com/)
+1. [Day 65 Commit — Ledger App](https://github.com/tbrlpld/Heath/commit/78e73f5a60633864430a5f9bb2db2e8a5e5206af)
+2. [Day 65 Commit — Heroku](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/7515baa58bbc13c905ff0be8a594275ef2b31033)
+3. [Heroku Hello World App — Live](https://tbrlpld-hello.herokuapp.com/)
 
 
 ## Day 66: December 22, 2019, Saturday
@@ -1186,8 +1186,8 @@ Attach the db engine to the app registry was the solution 😊
 This is super relieving that I finally figured that out!
 
 ### Link(s)
-1. [Day 70 Commit -- Django REST](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ecaba88f98aaf2b9173ef934b4b737155f13b5b0)
-2. [Heath Commit -- Resolving the database initialization issue](https://github.com/tbrlpld/Heath/commit/dc117239cf39913295aa28efd979700de04e138b)
+1. [Day 70 Commit — Django REST](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/ecaba88f98aaf2b9173ef934b4b737155f13b5b0)
+2. [Heath Commit — Resolving the database initialization issue](https://github.com/tbrlpld/Heath/commit/dc117239cf39913295aa28efd979700de04e138b)
 
 
 ## Day 71: December 28, 2019, Saturday
@@ -1213,8 +1213,8 @@ Also, worked on creating some tests for my ledger app.
 So glad this is finally working.
 
 ### Link(s)
-1. [Day 72 Commit -- Django REST User Input Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/8da50b1612755fb3219b868be897060120d27ff5)
-2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+1. [Day 72 Commit — Django REST User Input Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/8da50b1612755fb3219b868be897060120d27ff5)
+2. [Heath — Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
 ## Day 73: December 30, 2019, Monday
@@ -1228,8 +1228,8 @@ Really enjoying that style a lot more.
 Seems to make the code a lot more reusable.
 
 ### Link(s)
-1. [Day 72 Commit -- Web Scraping with BeautifulSoup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b28e4d5b34db153c0b968c6a94069d23653c577c)
-2. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+1. [Day 72 Commit — Web Scraping with BeautifulSoup](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b28e4d5b34db153c0b968c6a94069d23653c577c)
+2. [Heath — Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
 ## Day 74: December 31, 2019, Tuesday, New Year's Eve
@@ -1240,7 +1240,7 @@ Started incorporating BeautifulSoup into my functional tests for the ledger app 
 Still wondering what the best way is to handle HTTP exceptions in #Pyramid @trypyramid @pylonsproject
 
 ### Link(s)
-1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+1. [Heath — Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
 ## Day 75: January 1, 2020, Wednesday, New Year's Day
@@ -1267,7 +1267,7 @@ Glad I learned about this package #100DaysOfWeb @TalkPython @PyBites
 
 
 ### Link(s)
-1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+1. [Heath — Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
 ## Day 77: January 3, 2020, Friday
@@ -1279,7 +1279,7 @@ Gonna try to automate my tweets from my log tomorrow.
 Also, continued adding more tests to my ledger app.
 
 ### Link(s)
-1. [Heath -- Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
+1. [Heath — Functional Tests](https://github.com/tbrlpld/Heath/compare/functional-transaction-tests)
 
 
 ## Day 78: January 4, 2020, Saturday
@@ -1290,7 +1290,7 @@ Created script to automatically create tweets based on my daily log #100DaysOfWe
 If everything worked out fine, this log entry is the first that should be tweeted automatically.
 
 ### Link(s)
-1. [Day 78 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a35d71735b9bb6aa848532305e9c98c6600da3d2)
+1. [Day 78 Commit — Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/a35d71735b9bb6aa848532305e9c98c6600da3d2)
 
 
 ## Day 79: January 5, 2020, Sunday
@@ -1310,7 +1310,7 @@ Also, does it even make sense to expect the config file near the module?
 The config should probably be somewhere that is easy for the user to access.
 
 ### Link(s)
-1. [Day 79 Commit -- Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
+1. [Day 79 Commit — Logtweet Script](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/c9305f4915eba4abd3f7f8cb61cc1281704150a5)
 
 
 ## Day 80: January 6, 2020, Monday
@@ -1352,7 +1352,7 @@ With these tests in place, I can now go into refactoring more confidently. Looki
 Just saw that three people have starred my `logtweet` script on GitHub 😄 Pretty exciting.
 
 ### Link(s)
-1. [Day 82 Commit -- Testing Heath](https://github.com/tbrlpld/Heath/commit/5529a790debc0c14c208ae72f76fb2cabb3b40cf)
+1. [Day 82 Commit — Testing Heath](https://github.com/tbrlpld/Heath/commit/5529a790debc0c14c208ae72f76fb2cabb3b40cf)
 2. [Logtweet Stars on GitHub](https://github.com/tbrlpld/logtweet/stargazers)
 
 
@@ -1366,7 +1366,7 @@ Then, refactored my view functions into a class.
 Definitely helps with keeping it DRY!
 
 ### Link(s)
-1. [Day 83 Commit -- Refactoring Transaction Views in Heath](https://github.com/tbrlpld/Heath/commit/0bfa4030815336e677e1a15037a2816f6e5548cd)
+1. [Day 83 Commit — Refactoring Transaction Views in Heath](https://github.com/tbrlpld/Heath/commit/0bfa4030815336e677e1a15037a2816f6e5548cd)
 
 
 ## Day 84: January 10, 2020, Friday
@@ -1378,7 +1378,7 @@ Started implementing a feature so separate transaction by account.
 Used #TDD through out. #100DaysOfWeb @TalkPython @PyBites.
 
 ### Link(s)
-1. [Day 84 Commit -- Staring Accounts in Heath](https://github.com/tbrlpld/Heath/compare/0bfa40308153...305931195efc)
+1. [Day 84 Commit — Staring Accounts in Heath](https://github.com/tbrlpld/Heath/compare/0bfa40308153...305931195efc)
 
 
 ## Day 85: January 11, 2020, Saturday
@@ -1398,7 +1398,7 @@ You could potentially host an entire web apps logic on it. The database might ne
 For Python, [Zappa](https://github.com/Miserlou/Zappa) seems to make that process pretty simple.
 
 ### Link(s)
-1. [Day 85 Commit -- PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
+1. [Day 85 Commit — PEP8 Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/689e1e4134d4e4df1fbac2c955a97fd09384ae61)
 
 
 ## Day 86: January 12, 2020, Sunday
@@ -1423,7 +1423,7 @@ It seems cheaper to just get a machine with root access and then run the DB and 
 [Vultr](https://www.vultr.com/products/cloud-compute/) seems pretty neat for that. You can get a machine with root access from $2.50 per month. And that is the capping price. If you use less, you are charged less...
 
 ### Link(s)
-1. [Day 86 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/compare/689e1e4134d4e4df1fbac2c955a97fd09384ae61..60cf279fbc555ab5f8731b97a1d269d01bad407a?diff=unified)
+1. [Day 86 Commit — Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/compare/689e1e4134d4e4df1fbac2c955a97fd09384ae61..60cf279fbc555ab5f8731b97a1d269d01bad407a?diff=unified)
 
 
 ## Day 87: January 13, 2020, Monday
@@ -1435,7 +1435,7 @@ Turned the DB layer into a class.
 
 
 ### Link(s)
-1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9643dae840e6c7b45aea597519564323ca293e03)
+1. [Day 87 Commit — Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/9643dae840e6c7b45aea597519564323ca293e03)
 
 
 ## Day 88: January 14, 2020, Tuesday
@@ -1449,7 +1449,7 @@ Updated logtweet to use my URL shortener by default 😬
 Bit.ly service can still be configured if desired.
 
 ### Link(s)
-1. [Day 87 Commit -- Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/806eec4af04c9a9ca4f8fe1f4b7f9e0f8d4945a3
+1. [Day 87 Commit — Link Shortener Lambda](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/806eec4af04c9a9ca4f8fe1f4b7f9e0f8d4945a3
 )
 2. [Logtweet Release 0.1.2](https://pypi.org/project/logtweet/0.1.2/)
 
@@ -1468,7 +1468,7 @@ Think this would be a great addition to the course. So far all courses and tutor
 But setting up a separate database server that can be reached online seems like a crucial skill for a web developer to me. I think I want to  do that over the next few days.
 
 ### Link(s)
-1. [Day 89 Commit -- Link Shortener Lambda Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b3ff50f7a6c9a591a0fe2544be80e4af30b9a3a0)
+1. [Day 89 Commit — Link Shortener Lambda Fix](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/b3ff50f7a6c9a591a0fe2544be80e4af30b9a3a0)
 
 
 ## Day 90: January 16, 2020, Thursday
@@ -1509,7 +1509,7 @@ Also, started setting up a database server for future applications ^^ #100DaysOf
 Learned about Vue.js and recreated today's part of the demo application #100DaysOfWeb @TalkPython @PyBites
 
 ### Link(s)
-1. [Day 93 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/474bf452e15d2661bbe7eda8d6b5e8066fcd6a22)
+1. [Day 93 Commit — Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/474bf452e15d2661bbe7eda8d6b5e8066fcd6a22)
 
 
 ## Day 94: January 20, 2020, Monday
@@ -1518,7 +1518,7 @@ Learned about Vue.js and recreated today's part of the demo application #100Days
 Finished the Vue.js section and implemented the movie app backed by an API #100DaysOfWeb @TalkPython @PyBites
 
 ### Link(s)
-1. [Day 94 Commit -- Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f50bd688381aafda3f3b0f65f140a9e4a25b216a)
+1. [Day 94 Commit — Movie Data Frontend](https://github.com/tbrlpld/100daysofweb-with-python-course/commit/f50bd688381aafda3f3b0f65f140a9e4a25b216a)
 
 
 ## Day 95: January 21, 2020, Tuesday
@@ -1537,7 +1537,7 @@ And once again, not much code but more server setup @PyBites
 App and db server are now communicating though an ssh tunnel that is established as a service. The linked article helped a lot.
 
 ### Link(s)
-1. [Everything CLI -- SSH Tunneling for Fun and Profit](https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/)
+1. [Everything CLI — SSH Tunneling for Fun and Profit](https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/)
 
 
 
