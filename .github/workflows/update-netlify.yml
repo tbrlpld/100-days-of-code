@@ -1,0 +1,16 @@
+
+name: Update Netlify
+on: 
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    name: Trigger Netlify Build Hook
+    needs: build
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Curl to Netlify Build Hook
+        run: |
+          curl -X POST -d '{}' ${{secrets.NETLIFY_BUILD_HOOK_URL}}
