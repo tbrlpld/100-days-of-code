@@ -11,8 +11,6 @@ Part of the "#100DaysOfWeb in Python" course are videos that explain a certain t
 I will not count the time spent watching the videos.
 But, I will count the time working on the projects that are defined in the "#100DaysOfWeb in Python" course, which make use of the technology introduced in the preceding video.
 
-If you are interested, check out the [log](/log.md) where I journal my progress.
+If you are interested, check out the [log](/log.md) where I journal my progress or [my work repo for the "#100DayOfWeb in Python" course](https://github.com/tbrlpld/100daysofweb-with-python-course)..
 I will also tweet short summaries of my daily progress.
 My twitter handle is [@tbrlpld](https://twitter.com/tbrlpld).
-
-You can also checkout [my work repo for the "#100DayOfWeb in Python" course](https://github.com/tbrlpld/100daysofweb-with-python-course) or [my #100DaysOfWeb journaling repo](https://github.com/tbrlpld/100-days-of-code/) on Github.
